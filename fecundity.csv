@@ -1,0 +1,1375 @@
+observation_id,access,user_id,specie_id,specie_name,location_id,location_name,latitude,longitude,resource_id,resource_secondary_id,measurement_id,trait_id,trait_name,standard_id,standard_unit,methodology_id,methodology_name,value,value_type,precision,precision_type,precision_upper,replicates,notes
+137954,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178907,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137954,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178908,143,Water depth,9,m,,,2,median,1,range,3,,
+137954,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178909,151,Season,10,cat,,,Nov,raw_value,,,,,
+137954,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178910,155,Colony area,57,cm^2,,,638.8516194,raw_value,,,,,data from Figure 5d
+137954,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178911,216,Colony fecundity,77,mm^3,,,33089.25,raw_value,,,,,data from Figure 5d
+137953,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178902,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137953,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178903,143,Water depth,9,m,,,2,median,1,range,3,,
+137953,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178904,151,Season,10,cat,,,Nov,raw_value,,,,,
+137953,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178905,155,Colony area,57,cm^2,,,614.4690317,raw_value,,,,,data from Figure 5d
+137953,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178906,216,Colony fecundity,77,mm^3,,,24921.98,raw_value,,,,,data from Figure 5d
+137950,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178887,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137950,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178888,143,Water depth,9,m,,,2,median,1,range,3,,
+137950,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178889,151,Season,10,cat,,,Nov,raw_value,,,,,
+137950,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178890,155,Colony area,57,cm^2,,,350.1063598,raw_value,,,,,data from Figure 5d
+137950,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178891,216,Colony fecundity,77,mm^3,,,13701.51,raw_value,,,,,data from Figure 5d
+137949,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178882,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137949,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178883,143,Water depth,9,m,,,2,median,1,range,3,,
+137949,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178884,151,Season,10,cat,,,Nov,raw_value,,,,,
+137949,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178885,155,Colony area,57,cm^2,,,311.3866577,raw_value,,,,,data from Figure 5d
+137949,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178886,216,Colony fecundity,77,mm^3,,,12079.92,raw_value,,,,,data from Figure 5d
+137947,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178872,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137947,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178873,143,Water depth,9,m,,,2,median,1,range,3,,
+137947,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178874,151,Season,10,cat,,,Nov,raw_value,,,,,
+137947,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178875,155,Colony area,57,cm^2,,,266.1950651,raw_value,,,,,data from Figure 5d
+137947,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178876,216,Colony fecundity,77,mm^3,,,5671.83,raw_value,,,,,data from Figure 5d
+137944,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178857,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137944,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178858,143,Water depth,9,m,,,2,median,1,range,3,,
+137944,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178859,151,Season,10,cat,,,Nov,raw_value,,,,,
+137944,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178860,155,Colony area,57,cm^2,,,145.8478395,raw_value,,,,,data from Figure 5d
+137944,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178861,216,Colony fecundity,77,mm^3,,,2748.79,raw_value,,,,,data from Figure 5d
+137943,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178852,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137943,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178853,143,Water depth,9,m,,,2,median,1,range,3,,
+137943,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178854,151,Season,10,cat,,,Nov,raw_value,,,,,
+137943,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178855,155,Colony area,57,cm^2,,,122.0112847,raw_value,,,,,data from Figure 5d
+137943,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178856,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5d
+137941,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178842,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137941,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178843,143,Water depth,9,m,,,2,median,1,range,3,,
+137941,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178844,151,Season,10,cat,,,Nov,raw_value,,,,,
+137941,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178845,155,Colony area,57,cm^2,,,101.976476,raw_value,,,,,data from Figure 5d
+137941,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178846,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5d
+137940,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178837,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137940,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178838,143,Water depth,9,m,,,2,median,1,range,3,,
+137940,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178839,151,Season,10,cat,,,Nov,raw_value,,,,,
+137940,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178840,155,Colony area,57,cm^2,,,73.8924387,raw_value,,,,,data from Figure 5d
+137940,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178841,216,Colony fecundity,77,mm^3,,,856.63,raw_value,,,,,data from Figure 5d
+137937,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178823,143,Water depth,9,m,,,2,median,1,range,3,,
+137937,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178822,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137937,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178824,151,Season,10,cat,,,Nov,raw_value,,,,,
+137937,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178825,155,Colony area,57,cm^2,,,38.72576449,raw_value,,,,,data from Figure 5d
+137937,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178826,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5d
+137936,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178817,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137936,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178818,143,Water depth,9,m,,,2,median,1,range,3,,
+137936,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178819,151,Season,10,cat,,,Nov,raw_value,,,,,
+137936,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178820,155,Colony area,57,cm^2,,,35.5467582,raw_value,,,,,data from Figure 5d
+137936,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178821,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5d
+137952,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178897,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137952,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178898,143,Water depth,9,m,,,2,median,1,range,3,,
+137952,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178899,151,Season,10,cat,,,Nov,raw_value,,,,,
+137952,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178900,155,Colony area,57,cm^2,,,412.6672463,raw_value,,,,,data from Figure 5d
+137952,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178901,216,Colony fecundity,77,mm^3,,,25714.8,raw_value,,,,,data from Figure 5d
+138267,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,180502,12,Polyp fecundity,6,units,,,6.448,raw_value,0.145,standard_error,,,
+138267,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,180503,46,Size at maturity,57,cm^2,,,59.42921586,raw_value,,,,,"We follow a different definition than the one in the resource paper. The colony diameter at which a coral is observed to start producing gametes and reproducing, instead of the size in which all colonies are reproducing."
+138267,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,180504,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138267,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,180505,143,Water depth,9,m,,,2,median,1,range,3,,
+138267,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,180506,148,Polyps per area,47,units cm^-2,,,126,mean,4.7,standard_error,,,Counts
+138267,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,180507,151,Season,10,cat,,,Nov,raw_value,,,,,
+138267,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,180508,212,Ratio of female to male gonads,66,x:y,,,1.22,mean,0.1,standard_error,,,
+137942,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178847,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137942,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178848,143,Water depth,9,m,,,2,median,1,range,3,,
+137942,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178849,151,Season,10,cat,,,Nov,raw_value,,,,,
+137942,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178850,155,Colony area,57,cm^2,,,102.6597022,raw_value,,,,,data from Figure 5d
+137942,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178851,216,Colony fecundity,77,mm^3,,,2748.79,raw_value,,,,,data from Figure 5d
+137939,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178832,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137939,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178833,143,Water depth,9,m,,,2,median,1,range,3,,
+137939,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178834,151,Season,10,cat,,,Nov,raw_value,,,,,
+137939,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178835,155,Colony area,57,cm^2,,,69.02398038,raw_value,,,,,data from Figure 5d
+137939,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178836,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5d
+137938,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178827,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137938,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178828,143,Water depth,9,m,,,2,median,1,range,3,,
+137938,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178829,151,Season,10,cat,,,Nov,raw_value,,,,,
+137938,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178830,155,Colony area,57,cm^2,,,59.42921586,raw_value,,,,,data from Figure 5d
+137938,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178831,216,Colony fecundity,77,mm^3,,,2348.09,raw_value,,,,,data from Figure 5d
+137935,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178812,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137935,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178813,143,Water depth,9,m,,,2,median,1,range,3,,
+137935,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178814,151,Season,10,cat,,,Nov,raw_value,,,,,
+137935,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178815,155,Colony area,57,cm^2,,,33.13599378,raw_value,,,,,data from Figure 5d
+137935,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178816,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5d
+137955,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178912,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137955,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178913,143,Water depth,9,m,,,2,median,1,range,3,,
+137955,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178914,151,Season,10,cat,,,Nov,raw_value,,,,,
+137955,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178915,155,Colony area,57,cm^2,,,690.875831,raw_value,,,,,data from Figure 5d
+137955,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178916,216,Colony fecundity,77,mm^3,,,33089.25,raw_value,,,,,data from Figure 5d
+137959,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178932,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137959,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178933,143,Water depth,9,m,,,2,median,1,range,3,,
+137959,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178934,151,Season,10,cat,,,Nov,raw_value,,,,,
+137959,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178935,155,Colony area,57,cm^2,,,908.447847,raw_value,,,,,data from Figure 5d
+137959,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178936,216,Colony fecundity,77,mm^3,,,70452.08,raw_value,,,,,data from Figure 5d
+137960,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178937,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137960,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178938,143,Water depth,9,m,,,2,median,1,range,3,,
+137960,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178939,151,Season,10,cat,,,Nov,raw_value,,,,,
+137960,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178940,155,Colony area,57,cm^2,,,951.6998481,raw_value,,,,,data from Figure 5d
+137960,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178941,216,Colony fecundity,77,mm^3,,,41246.72,raw_value,,,,,data from Figure 5d
+137961,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178942,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137961,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178943,143,Water depth,9,m,,,2,median,1,range,3,,
+137961,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178944,151,Season,10,cat,,,Nov,raw_value,,,,,
+137961,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178945,155,Colony area,57,cm^2,,,997.7000638,raw_value,,,,,data from Figure 5d
+137961,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178946,216,Colony fecundity,77,mm^3,,,82450.77,raw_value,,,,,data from Figure 5d
+137962,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178947,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137962,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178948,143,Water depth,9,m,,,2,median,1,range,3,,
+137962,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178949,151,Season,10,cat,,,Nov,raw_value,,,,,
+137962,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178950,155,Colony area,57,cm^2,,,1212.271793,raw_value,,,,,data from Figure 5d
+137962,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178951,216,Colony fecundity,77,mm^3,,,66144.45,raw_value,,,,,data from Figure 5d
+137963,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178952,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137963,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178953,143,Water depth,9,m,,,2,median,1,range,3,,
+137963,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178954,151,Season,10,cat,,,Nov,raw_value,,,,,
+137963,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178955,155,Colony area,57,cm^2,,,1231.969625,raw_value,,,,,data from Figure 5d
+137963,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178956,216,Colony fecundity,77,mm^3,,,85093.21,raw_value,,,,,data from Figure 5d
+137964,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178957,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137964,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178958,143,Water depth,9,m,,,2,median,1,range,3,,
+137964,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178959,151,Season,10,cat,,,Nov,raw_value,,,,,
+137964,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178960,155,Colony area,57,cm^2,,,1291.516622,raw_value,,,,,data from Figure 5d
+137964,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178961,216,Colony fecundity,77,mm^3,,,124164.23,raw_value,,,,,data from Figure 5d
+137945,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178862,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137945,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178863,143,Water depth,9,m,,,2,median,1,range,3,,
+137945,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178864,151,Season,10,cat,,,Nov,raw_value,,,,,
+137945,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178865,155,Colony area,57,cm^2,,,180.2187612,raw_value,,,,,data from Figure 5d
+137945,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178866,216,Colony fecundity,77,mm^3,,,6433.28,raw_value,,,,,data from Figure 5d
+137946,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178867,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137946,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178868,143,Water depth,9,m,,,2,median,1,range,3,,
+137946,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178869,151,Season,10,cat,,,Nov,raw_value,,,,,
+137946,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178870,155,Colony area,57,cm^2,,,197.8791335,raw_value,,,,,data from Figure 5d
+137946,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178871,216,Colony fecundity,77,mm^3,,,6433.28,raw_value,,,,,data from Figure 5d
+137948,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178877,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137948,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178878,143,Water depth,9,m,,,2,median,1,range,3,,
+137948,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178879,151,Season,10,cat,,,Nov,raw_value,,,,,
+137948,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178880,155,Colony area,57,cm^2,,,311.3149665,raw_value,,,,,data from Figure 5d
+137948,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178881,216,Colony fecundity,77,mm^3,,,10319.48,raw_value,,,,,data from Figure 5d
+137951,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178892,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137951,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178893,143,Water depth,9,m,,,2,median,1,range,3,,
+137951,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178894,151,Season,10,cat,,,Nov,raw_value,,,,,
+137951,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178895,155,Colony area,57,cm^2,,,399.8526697,raw_value,,,,,data from Figure 5d
+137951,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178896,216,Colony fecundity,77,mm^3,,,20629.04,raw_value,,,,,data from Figure 5d
+137965,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178962,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137965,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178963,143,Water depth,9,m,,,2,median,1,range,3,,
+137965,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178964,151,Season,10,cat,,,Nov,raw_value,,,,,
+137965,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178965,155,Colony area,57,cm^2,,,1984.266498,raw_value,,,,,data from Figure 5d
+137965,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178966,216,Colony fecundity,77,mm^3,,,154773.71,raw_value,,,,,data from Figure 5d
+137958,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178927,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137958,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178928,143,Water depth,9,m,,,2,median,1,range,3,,
+137958,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178929,151,Season,10,cat,,,Nov,raw_value,,,,,
+137958,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178930,155,Colony area,57,cm^2,,,820.7294172,raw_value,,,,,data from Figure 5d
+137958,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178931,216,Colony fecundity,77,mm^3,,,62114.5,raw_value,,,,,data from Figure 5d
+137957,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178922,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137957,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178923,143,Water depth,9,m,,,2,median,1,range,3,,
+137957,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178924,151,Season,10,cat,,,Nov,raw_value,,,,,
+137957,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178925,155,Colony area,57,cm^2,,,807.7928411,raw_value,,,,,data from Figure 5d
+137957,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178926,216,Colony fecundity,77,mm^3,,,36365.37,raw_value,,,,,data from Figure 5d
+137956,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178917,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137956,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178918,143,Water depth,9,m,,,2,median,1,range,3,,
+137956,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178919,151,Season,10,cat,,,Nov,raw_value,,,,,
+137956,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178920,155,Colony area,57,cm^2,,,788.8601176,raw_value,,,,,data from Figure 5d
+137956,1,9,68,Acropora gemmifera,178,Lizard Island,-14.6689,145.4594,192,,178921,216,Colony fecundity,77,mm^3,,,28267.32,raw_value,,,,,data from Figure 5d
+138009,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179212,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138009,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179213,143,Water depth,9,m,,,2,median,1,range,3,,
+138009,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179214,151,Season,10,cat,,,Nov,raw_value,,,,,
+138009,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179215,155,Colony area,57,cm^2,,,310.1701499,raw_value,,,,,data from Figure 5a
+138009,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179216,216,Colony fecundity,77,mm^3,,,13473.10725,raw_value,,,,,data from Figure 5a
+138010,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179217,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138010,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179218,143,Water depth,9,m,,,2,median,1,range,3,,
+138010,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179219,151,Season,10,cat,,,Nov,raw_value,,,,,
+138010,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179220,155,Colony area,57,cm^2,,,310.2415775,raw_value,,,,,data from Figure 5a
+138010,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179221,216,Colony fecundity,77,mm^3,,,10751.266,raw_value,,,,,data from Figure 5a
+138012,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179227,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138012,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179228,143,Water depth,9,m,,,2,median,1,range,3,,
+138012,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179229,151,Season,10,cat,,,Nov,raw_value,,,,,
+138012,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179230,155,Colony area,57,cm^2,,,397.7406691,raw_value,,,,,data from Figure 5a
+138012,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179231,216,Colony fecundity,77,mm^3,,,21901.81828,raw_value,,,,,data from Figure 5a
+138013,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179232,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138013,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179233,143,Water depth,9,m,,,2,median,1,range,3,,
+138013,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179234,151,Season,10,cat,,,Nov,raw_value,,,,,
+138013,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179235,155,Colony area,57,cm^2,,,410.865807,raw_value,,,,,data from Figure 5a
+138013,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179236,216,Colony fecundity,77,mm^3,,,24921.98178,raw_value,,,,,data from Figure 5a
+138017,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179252,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138017,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179253,143,Water depth,9,m,,,2,median,1,range,3,,
+138017,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179254,151,Season,10,cat,,,Nov,raw_value,,,,,
+138017,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179255,155,Colony area,57,cm^2,,,786.8645866,raw_value,,,,,data from Figure 5a
+138017,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179256,216,Colony fecundity,77,mm^3,,,29416.1097,raw_value,,,,,data from Figure 5a
+138018,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179257,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138018,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179258,143,Water depth,9,m,,,2,median,1,range,3,,
+138018,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179259,151,Season,10,cat,,,Nov,raw_value,,,,,
+138018,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179260,155,Colony area,57,cm^2,,,803.8962449,raw_value,,,,,data from Figure 5a
+138018,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179261,216,Colony fecundity,77,mm^3,,,38088.03765,raw_value,,,,,data from Figure 5a
+138020,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179267,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138020,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179268,143,Water depth,9,m,,,2,median,1,range,3,,
+138020,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179269,151,Season,10,cat,,,Nov,raw_value,,,,,
+138020,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179270,155,Colony area,57,cm^2,,,885.5233145,raw_value,,,,,data from Figure 5a
+138020,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179271,216,Colony fecundity,77,mm^3,,,72659.77069,raw_value,,,,,data from Figure 5a
+138021,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179272,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138021,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179273,143,Water depth,9,m,,,2,median,1,range,3,,
+138021,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179274,151,Season,10,cat,,,Nov,raw_value,,,,,
+138021,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179275,155,Colony area,57,cm^2,,,945.5837496,raw_value,,,,,data from Figure 5a
+138021,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179276,216,Colony fecundity,77,mm^3,,,42003.90434,raw_value,,,,,data from Figure 5a
+138023,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179282,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138023,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179283,143,Water depth,9,m,,,2,median,1,range,3,,
+138023,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179284,151,Season,10,cat,,,Nov,raw_value,,,,,
+138023,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179285,155,Colony area,57,cm^2,,,1199.499303,raw_value,,,,,data from Figure 5a
+138023,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179286,216,Colony fecundity,77,mm^3,,,68264.29951,raw_value,,,,,data from Figure 5a
+138030,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179317,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138030,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179318,143,Water depth,9,m,,,2,median,1,range,3,,
+138030,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179319,151,Season,10,cat,,,Nov,raw_value,,,,,
+138030,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179320,155,Colony area,57,cm^2,,,3426.099725,raw_value,,,,,data from Figure 5a
+138030,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179321,216,Colony fecundity,77,mm^3,,,241990.4378,raw_value,,,,,data from Figure 5a
+138031,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179322,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138031,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179323,143,Water depth,9,m,,,2,median,1,range,3,,
+138031,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179324,151,Season,10,cat,,,Nov,raw_value,,,,,
+138031,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179325,155,Colony area,57,cm^2,,,5002.648624,raw_value,,,,,data from Figure 5a
+138031,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179326,216,Colony fecundity,77,mm^3,,,462486.5008,raw_value,,,,,data from Figure 5a
+138002,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179177,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138002,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179178,143,Water depth,9,m,,,2,median,1,range,3,,
+138002,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179179,151,Season,10,cat,,,Nov,raw_value,,,,,
+138002,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179180,155,Colony area,57,cm^2,,,100.6931669,raw_value,,,,,data from Figure 5a
+138002,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179181,216,Colony fecundity,77,mm^3,,,2933.945222,raw_value,,,,,data from Figure 5a
+138003,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179182,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138003,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179183,143,Water depth,9,m,,,2,median,1,range,3,,
+138003,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179184,151,Season,10,cat,,,Nov,raw_value,,,,,
+138003,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179185,155,Colony area,57,cm^2,,,103.8723602,raw_value,,,,,data from Figure 5a
+138003,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179186,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138004,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179188,143,Water depth,9,m,,,2,median,1,range,3,,
+138004,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179187,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138004,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179189,151,Season,10,cat,,,Nov,raw_value,,,,,
+138004,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179190,155,Colony area,57,cm^2,,,123.537839,raw_value,,,,,data from Figure 5a
+138004,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179191,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138006,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179197,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138006,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179198,143,Water depth,9,m,,,2,median,1,range,3,,
+138006,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179199,151,Season,10,cat,,,Nov,raw_value,,,,,
+138006,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179200,155,Colony area,57,cm^2,,,178.6487575,raw_value,,,,,data from Figure 5a
+138006,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179201,216,Colony fecundity,77,mm^3,,,6390.458892,raw_value,,,,,data from Figure 5a
+138007,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179202,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138007,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179203,143,Water depth,9,m,,,2,median,1,range,3,,
+138007,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179204,151,Season,10,cat,,,Nov,raw_value,,,,,
+138007,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179205,155,Colony area,57,cm^2,,,199.1131761,raw_value,,,,,data from Figure 5a
+138007,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179206,216,Colony fecundity,77,mm^3,,,6393.402945,raw_value,,,,,data from Figure 5a
+138008,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179207,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138008,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179208,143,Water depth,9,m,,,2,median,1,range,3,,
+138008,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179209,151,Season,10,cat,,,Nov,raw_value,,,,,
+138008,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179210,155,Colony area,57,cm^2,,,266.8087081,raw_value,,,,,data from Figure 5a
+138008,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179211,216,Colony fecundity,77,mm^3,,,5632.781509,raw_value,,,,,data from Figure 5a
+138011,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179222,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138011,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179223,143,Water depth,9,m,,,2,median,1,range,3,,
+138011,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179224,151,Season,10,cat,,,Nov,raw_value,,,,,
+138011,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179225,155,Colony area,57,cm^2,,,345.7004939,raw_value,,,,,data from Figure 5a
+138011,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179226,216,Colony fecundity,77,mm^3,,,13057.70166,raw_value,,,,,data from Figure 5a
+138014,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179237,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138014,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179238,143,Water depth,9,m,,,2,median,1,range,3,,
+138014,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179239,151,Season,10,cat,,,Nov,raw_value,,,,,
+138014,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179240,155,Colony area,57,cm^2,,,606.7363296,raw_value,,,,,data from Figure 5a
+138014,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179241,216,Colony fecundity,77,mm^3,,,27528.60626,raw_value,,,,,data from Figure 5a
+138029,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179312,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138029,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179313,143,Water depth,9,m,,,2,median,1,range,3,,
+138029,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179314,151,Season,10,cat,,,Nov,raw_value,,,,,
+138029,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179315,155,Colony area,57,cm^2,,,3212.180934,raw_value,,,,,data from Figure 5a
+138029,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179316,216,Colony fecundity,77,mm^3,,,169627.9602,raw_value,,,,,data from Figure 5a
+138032,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179327,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138032,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179328,143,Water depth,9,m,,,2,median,1,range,3,,
+138032,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179329,151,Season,10,cat,,,Nov,raw_value,,,,,
+138032,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179330,155,Colony area,57,cm^2,,,5226.368167,raw_value,,,,,data from Figure 5a
+138032,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179331,216,Colony fecundity,77,mm^3,,,346097.7255,raw_value,,,,,data from Figure 5a
+138033,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179332,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138033,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179333,143,Water depth,9,m,,,2,median,1,range,3,,
+138033,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179334,151,Season,10,cat,,,Nov,raw_value,,,,,
+138033,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179335,155,Colony area,57,cm^2,,,7082.718805,raw_value,,,,,data from Figure 5a
+138033,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179336,216,Colony fecundity,77,mm^3,,,200400.0534,raw_value,,,,,data from Figure 5a
+138034,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179337,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138034,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179338,143,Water depth,9,m,,,2,median,1,range,3,,
+138034,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179339,151,Season,10,cat,,,Nov,raw_value,,,,,
+138034,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179340,155,Colony area,57,cm^2,,,9074.025596,raw_value,,,,,data from Figure 5a
+138034,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179341,216,Colony fecundity,77,mm^3,,,753528.0502,raw_value,,,,,data from Figure 5a
+138268,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,180509,12,Polyp fecundity,6,units,,,5.576,raw_value,0.217,standard_error,,,
+138268,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,180510,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138268,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,180511,143,Water depth,9,m,,,2,median,1,range,3,,
+138268,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,180512,148,Polyps per area,47,units cm^-2,,,112,mean,3.2,standard_error,,,Counts
+138268,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,180513,151,Season,10,cat,,,Nov,raw_value,,,,,
+138268,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,180514,212,Ratio of female to male gonads,66,x:y,,,1.47,mean,0.11,standard_error,,,
+138015,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179242,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138015,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179243,143,Water depth,9,m,,,2,median,1,range,3,,
+138015,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179244,151,Season,10,cat,,,Nov,raw_value,,,,,
+138015,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179245,155,Colony area,57,cm^2,,,640.3243245,raw_value,,,,,data from Figure 5a
+138015,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179246,216,Colony fecundity,77,mm^3,,,33418.504,raw_value,,,,,data from Figure 5a
+138016,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179247,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138016,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179248,143,Water depth,9,m,,,2,median,1,range,3,,
+138016,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179249,151,Season,10,cat,,,Nov,raw_value,,,,,
+138016,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179250,155,Colony area,57,cm^2,,,698.0716486,raw_value,,,,,data from Figure 5a
+138016,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179251,216,Colony fecundity,77,mm^3,,,36837.3356,raw_value,,,,,data from Figure 5a
+138001,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179172,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138001,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179173,143,Water depth,9,m,,,2,median,1,range,3,,
+138001,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179174,151,Season,10,cat,,,Nov,raw_value,,,,,
+138001,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179175,155,Colony area,57,cm^2,,,73.65462115,raw_value,,,,,data from Figure 5a
+138001,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179176,216,Colony fecundity,77,mm^3,,,831.3385317,raw_value,,,,,data from Figure 5a
+138019,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179262,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138019,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179263,143,Water depth,9,m,,,2,median,1,range,3,,
+138019,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179264,151,Season,10,cat,,,Nov,raw_value,,,,,
+138019,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179265,155,Colony area,57,cm^2,,,820.9184189,raw_value,,,,,data from Figure 5a
+138019,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179266,216,Colony fecundity,77,mm^3,,,63825.34862,raw_value,,,,,data from Figure 5a
+138022,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179277,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138022,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179278,143,Water depth,9,m,,,2,median,1,range,3,,
+138022,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179279,151,Season,10,cat,,,Nov,raw_value,,,,,
+138022,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179280,155,Colony area,57,cm^2,,,997.4703613,raw_value,,,,,data from Figure 5a
+138022,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179281,216,Colony fecundity,77,mm^3,,,91137.10621,raw_value,,,,,data from Figure 5a
+138024,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179287,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138024,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179288,143,Water depth,9,m,,,2,median,1,range,3,,
+138024,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179289,151,Season,10,cat,,,Nov,raw_value,,,,,
+138024,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179290,155,Colony area,57,cm^2,,,1225.462426,raw_value,,,,,data from Figure 5a
+138024,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179291,216,Colony fecundity,77,mm^3,,,85564.75761,raw_value,,,,,data from Figure 5a
+138025,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179292,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138025,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179293,143,Water depth,9,m,,,2,median,1,range,3,,
+138025,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179294,151,Season,10,cat,,,Nov,raw_value,,,,,
+138025,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179295,155,Colony area,57,cm^2,,,1279.08675,raw_value,,,,,data from Figure 5a
+138025,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179296,216,Colony fecundity,77,mm^3,,,126065.5884,raw_value,,,,,data from Figure 5a
+138026,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179297,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138026,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179298,143,Water depth,9,m,,,2,median,1,range,3,,
+138026,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179299,151,Season,10,cat,,,Nov,raw_value,,,,,
+138026,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179300,155,Colony area,57,cm^2,,,1951.6413,raw_value,,,,,data from Figure 5a
+138026,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179301,216,Colony fecundity,77,mm^3,,,158451.8299,raw_value,,,,,data from Figure 5a
+138027,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179302,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138027,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179303,143,Water depth,9,m,,,2,median,1,range,3,,
+138027,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179304,151,Season,10,cat,,,Nov,raw_value,,,,,
+138027,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179305,155,Colony area,57,cm^2,,,2819.681143,raw_value,,,,,data from Figure 5a
+138027,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179306,216,Colony fecundity,77,mm^3,,,199112.1761,raw_value,,,,,data from Figure 5a
+138028,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179307,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138028,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179308,143,Water depth,9,m,,,2,median,1,range,3,,
+138028,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179309,151,Season,10,cat,,,Nov,raw_value,,,,,
+138028,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179310,155,Colony area,57,cm^2,,,3073.972656,raw_value,,,,,data from Figure 5a
+138028,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179311,216,Colony fecundity,77,mm^3,,,266378.0097,raw_value,,,,,data from Figure 5a
+138000,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179167,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138000,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179168,143,Water depth,9,m,,,2,median,1,range,3,,
+138000,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179169,151,Season,10,cat,,,Nov,raw_value,,,,,
+138000,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179170,155,Colony area,57,cm^2,,,68.81767565,raw_value,,,,,data from Figure 5a
+138000,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179171,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+137999,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179162,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137999,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179163,143,Water depth,9,m,,,2,median,1,range,3,,
+137999,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179164,151,Season,10,cat,,,Nov,raw_value,,,,,
+137999,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179165,155,Colony area,57,cm^2,,,58.58683001,raw_value,,,,,data from Figure 5a
+137999,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179166,216,Colony fecundity,77,mm^3,,,2331.920826,raw_value,,,,,data from Figure 5a
+137998,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179157,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137998,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179158,143,Water depth,9,m,,,2,median,1,range,3,,
+137998,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179159,151,Season,10,cat,,,Nov,raw_value,,,,,
+137998,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179160,155,Colony area,57,cm^2,,,38.33540008,raw_value,,,,,data from Figure 5a
+137998,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179161,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+137996,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179147,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137996,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179148,143,Water depth,9,m,,,2,median,1,range,3,,
+137996,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179149,151,Season,10,cat,,,Nov,raw_value,,,,,
+137996,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179150,155,Colony area,57,cm^2,,,32.5836701,raw_value,,,,,data from Figure 5a
+137996,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179151,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+137997,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179152,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+137997,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179153,143,Water depth,9,m,,,2,median,1,range,3,,
+137997,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179154,151,Season,10,cat,,,Nov,raw_value,,,,,
+137997,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179155,155,Colony area,57,cm^2,,,35.14795001,raw_value,,,,,data from Figure 5a
+137997,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179156,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138005,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179192,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138005,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179193,143,Water depth,9,m,,,2,median,1,range,3,,
+138005,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179194,151,Season,10,cat,,,Nov,raw_value,,,,,
+138005,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179195,155,Colony area,57,cm^2,,,143.9792808,raw_value,,,,,data from Figure 5a
+138005,1,9,80,Acropora hyacinthus,178,Lizard Island,-14.6689,145.4594,192,,179196,216,Colony fecundity,77,mm^3,,,2847.393592,raw_value,,,,,data from Figure 5a
+138082,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179577,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138082,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179578,143,Water depth,9,m,,,2,median,1,range,3,,
+138082,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179579,151,Season,10,cat,,,Nov,raw_value,,,,,
+138082,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179580,155,Colony area,57,cm^2,,,592.5158877,raw_value,,,,,data from Figure 5c
+138082,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179581,216,Colony fecundity,77,mm^3,,,17876.22063,raw_value,,,,,data from Figure 5a
+138056,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179447,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138056,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179448,143,Water depth,9,m,,,2,median,1,range,3,,
+138056,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179449,151,Season,10,cat,,,Nov,raw_value,,,,,
+138056,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179450,155,Colony area,57,cm^2,,,12.70281578,raw_value,,,,,data from Figure 5c
+138056,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179451,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138057,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179452,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138057,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179453,143,Water depth,9,m,,,2,median,1,range,3,,
+138057,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179454,151,Season,10,cat,,,Nov,raw_value,,,,,
+138057,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179455,155,Colony area,57,cm^2,,,16.69552192,raw_value,,,,,data from Figure 5c
+138057,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179456,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138058,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179457,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138058,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179458,143,Water depth,9,m,,,2,median,1,range,3,,
+138058,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179459,151,Season,10,cat,,,Nov,raw_value,,,,,
+138058,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179460,155,Colony area,57,cm^2,,,19.89756811,raw_value,,,,,data from Figure 5c
+138058,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179461,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138059,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179462,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138059,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179463,143,Water depth,9,m,,,2,median,1,range,3,,
+138059,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179464,151,Season,10,cat,,,Nov,raw_value,,,,,
+138059,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179465,155,Colony area,57,cm^2,,,22.64122914,raw_value,,,,,data from Figure 5c
+138059,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179466,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138060,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179467,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138060,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179468,143,Water depth,9,m,,,2,median,1,range,3,,
+138060,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179469,151,Season,10,cat,,,Nov,raw_value,,,,,
+138060,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179470,155,Colony area,57,cm^2,,,27.99625883,raw_value,,,,,data from Figure 5c
+138060,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179471,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138061,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179472,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138061,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179473,143,Water depth,9,m,,,2,median,1,range,3,,
+138061,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179474,151,Season,10,cat,,,Nov,raw_value,,,,,
+138061,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179475,155,Colony area,57,cm^2,,,33.84542719,raw_value,,,,,data from Figure 5c
+138061,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179476,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138062,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179477,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138062,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179478,143,Water depth,9,m,,,2,median,1,range,3,,
+138062,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179479,151,Season,10,cat,,,Nov,raw_value,,,,,
+138062,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179480,155,Colony area,57,cm^2,,,39.13812356,raw_value,,,,,data from Figure 5c
+138062,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179481,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138063,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179482,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138063,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179483,143,Water depth,9,m,,,2,median,1,range,3,,
+138063,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179484,151,Season,10,cat,,,Nov,raw_value,,,,,
+138063,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179485,155,Colony area,57,cm^2,,,45.3106195,raw_value,,,,,data from Figure 5c
+138063,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179486,216,Colony fecundity,77,mm^3,,,139.6047524,raw_value,,,,,data from Figure 5a
+138064,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179487,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138064,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179488,143,Water depth,9,m,,,2,median,1,range,3,,
+138064,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179489,151,Season,10,cat,,,Nov,raw_value,,,,,
+138064,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179490,155,Colony area,57,cm^2,,,76.91304403,raw_value,,,,,data from Figure 5c
+138064,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179491,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138065,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179492,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138065,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179493,143,Water depth,9,m,,,2,median,1,range,3,,
+138065,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179494,151,Season,10,cat,,,Nov,raw_value,,,,,
+138065,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179495,155,Colony area,57,cm^2,,,93.73461501,raw_value,,,,,data from Figure 5c
+138065,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179496,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138066,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179497,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138066,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179498,143,Water depth,9,m,,,2,median,1,range,3,,
+138066,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179499,151,Season,10,cat,,,Nov,raw_value,,,,,
+138066,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179500,155,Colony area,57,cm^2,,,110.7898565,raw_value,,,,,data from Figure 5c
+138066,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179501,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138067,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179502,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138067,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179503,143,Water depth,9,m,,,2,median,1,range,3,,
+138067,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179504,151,Season,10,cat,,,Nov,raw_value,,,,,
+138067,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179505,155,Colony area,57,cm^2,,,118.249687,raw_value,,,,,data from Figure 5c
+138067,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179506,216,Colony fecundity,77,mm^3,,,6633.374758,raw_value,,,,,data from Figure 5a
+138070,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179517,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138070,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179518,143,Water depth,9,m,,,2,median,1,range,3,,
+138070,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179519,151,Season,10,cat,,,Nov,raw_value,,,,,
+138070,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179520,155,Colony area,57,cm^2,,,150.6607066,raw_value,,,,,data from Figure 5c
+138070,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179521,216,Colony fecundity,77,mm^3,,,5872.540937,raw_value,,,,,data from Figure 5a
+138077,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179552,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138077,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179553,143,Water depth,9,m,,,2,median,1,range,3,,
+138077,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179554,151,Season,10,cat,,,Nov,raw_value,,,,,
+138077,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179555,155,Colony area,57,cm^2,,,356.4511334,raw_value,,,,,data from Figure 5c
+138077,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179556,216,Colony fecundity,77,mm^3,,,20140.8798,raw_value,,,,,data from Figure 5a
+138078,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179557,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138078,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179558,143,Water depth,9,m,,,2,median,1,range,3,,
+138078,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179559,151,Season,10,cat,,,Nov,raw_value,,,,,
+138078,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179560,155,Colony area,57,cm^2,,,424.3263484,raw_value,,,,,data from Figure 5c
+138078,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179561,216,Colony fecundity,77,mm^3,,,19194.52524,raw_value,,,,,data from Figure 5a
+138079,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179562,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138079,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179563,143,Water depth,9,m,,,2,median,1,range,3,,
+138079,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179564,151,Season,10,cat,,,Nov,raw_value,,,,,
+138079,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179565,155,Colony area,57,cm^2,,,452.1681832,raw_value,,,,,data from Figure 5c
+138079,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179566,216,Colony fecundity,77,mm^3,,,26563.39932,raw_value,,,,,data from Figure 5a
+138081,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179572,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138081,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179573,143,Water depth,9,m,,,2,median,1,range,3,,
+138081,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179574,151,Season,10,cat,,,Nov,raw_value,,,,,
+138081,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179575,155,Colony area,57,cm^2,,,513.0976198,raw_value,,,,,data from Figure 5c
+138081,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179576,216,Colony fecundity,77,mm^3,,,18757.58174,raw_value,,,,,data from Figure 5a
+138084,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179587,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138084,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179588,143,Water depth,9,m,,,2,median,1,range,3,,
+138084,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179589,151,Season,10,cat,,,Nov,raw_value,,,,,
+138084,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179590,155,Colony area,57,cm^2,,,708.5981269,raw_value,,,,,data from Figure 5c
+138084,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179591,216,Colony fecundity,77,mm^3,,,29504.29764,raw_value,,,,,data from Figure 5a
+138085,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179592,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138085,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179593,143,Water depth,9,m,,,2,median,1,range,3,,
+138085,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179594,151,Season,10,cat,,,Nov,raw_value,,,,,
+138085,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179595,155,Colony area,57,cm^2,,,1229.985524,raw_value,,,,,data from Figure 5c
+138085,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179596,216,Colony fecundity,77,mm^3,,,50140.8092,raw_value,,,,,data from Figure 5a
+138086,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179597,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138086,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179598,143,Water depth,9,m,,,2,median,1,range,3,,
+138086,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179599,151,Season,10,cat,,,Nov,raw_value,,,,,
+138086,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179600,155,Colony area,57,cm^2,,,1360.191323,raw_value,,,,,data from Figure 5c
+138086,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179601,216,Colony fecundity,77,mm^3,,,62833.7657,raw_value,,,,,data from Figure 5a
+138087,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179602,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138087,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179603,143,Water depth,9,m,,,2,median,1,range,3,,
+138087,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179604,151,Season,10,cat,,,Nov,raw_value,,,,,
+138087,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179605,155,Colony area,57,cm^2,,,1597.717529,raw_value,,,,,data from Figure 5c
+138087,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179606,216,Colony fecundity,77,mm^3,,,73096.07519,raw_value,,,,,data from Figure 5a
+138269,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,180515,12,Polyp fecundity,6,units,,,5.139,raw_value,0.145,standard_error,,,
+138269,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,180516,46,Size at maturity,57,cm^2,,,45.3106195,raw_value,,,,,"We follow a different definition than the one in the resource paper. The colony diameter at which a coral is observed to start producing gametes and reproducing, instead of the size in which all colonies are reproducing."
+138269,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,180517,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138269,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,180518,143,Water depth,9,m,,,2,median,1,range,3,,
+138269,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,180519,148,Polyps per area,47,units cm^-2,,,87,mean,5.3,standard_error,,,Counts
+138269,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,180520,151,Season,10,cat,,,Nov,raw_value,,,,,
+138269,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,180521,212,Ratio of female to male gonads,66,x:y,,,1.1,mean,0.11,standard_error,,,
+138088,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179607,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138088,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179608,143,Water depth,9,m,,,2,median,1,range,3,,
+138088,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179609,151,Season,10,cat,,,Nov,raw_value,,,,,
+138088,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179610,155,Colony area,57,cm^2,,,2282.443312,raw_value,,,,,data from Figure 5c
+138088,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179611,216,Colony fecundity,77,mm^3,,,171473.6796,raw_value,,,,,data from Figure 5a
+138083,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179582,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138083,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179583,143,Water depth,9,m,,,2,median,1,range,3,,
+138083,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179584,151,Season,10,cat,,,Nov,raw_value,,,,,
+138083,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179585,155,Colony area,57,cm^2,,,640.6192726,raw_value,,,,,data from Figure 5c
+138083,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179586,216,Colony fecundity,77,mm^3,,,22960.48648,raw_value,,,,,data from Figure 5a
+138080,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179567,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138080,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179568,143,Water depth,9,m,,,2,median,1,range,3,,
+138080,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179569,151,Season,10,cat,,,Nov,raw_value,,,,,
+138080,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179570,155,Colony area,57,cm^2,,,489.1026321,raw_value,,,,,data from Figure 5c
+138080,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179571,216,Colony fecundity,77,mm^3,,,14248.51228,raw_value,,,,,data from Figure 5a
+138076,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179547,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138076,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179548,143,Water depth,9,m,,,2,median,1,range,3,,
+138076,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179549,151,Season,10,cat,,,Nov,raw_value,,,,,
+138076,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179550,155,Colony area,57,cm^2,,,316.9567463,raw_value,,,,,data from Figure 5c
+138076,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179551,216,Colony fecundity,77,mm^3,,,13160.33671,raw_value,,,,,data from Figure 5a
+138075,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179542,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138075,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179543,143,Water depth,9,m,,,2,median,1,range,3,,
+138075,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179544,151,Season,10,cat,,,Nov,raw_value,,,,,
+138075,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179545,155,Colony area,57,cm^2,,,276.9491267,raw_value,,,,,data from Figure 5c
+138075,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179546,216,Colony fecundity,77,mm^3,,,16450.29159,raw_value,,,,,data from Figure 5a
+138074,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179537,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138074,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179538,143,Water depth,9,m,,,2,median,1,range,3,,
+138074,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179539,151,Season,10,cat,,,Nov,raw_value,,,,,
+138074,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179540,155,Colony area,57,cm^2,,,273.1492422,raw_value,,,,,data from Figure 5c
+138074,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179541,216,Colony fecundity,77,mm^3,,,7777.574221,raw_value,,,,,data from Figure 5a
+138073,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179532,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138073,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179533,143,Water depth,9,m,,,2,median,1,range,3,,
+138073,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179534,151,Season,10,cat,,,Nov,raw_value,,,,,
+138073,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179535,155,Colony area,57,cm^2,,,270.3335826,raw_value,,,,,data from Figure 5c
+138073,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179536,216,Colony fecundity,77,mm^3,,,14156.9378,raw_value,,,,,data from Figure 5a
+138072,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179527,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138072,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179528,143,Water depth,9,m,,,2,median,1,range,3,,
+138072,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179529,151,Season,10,cat,,,Nov,raw_value,,,,,
+138072,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179530,155,Colony area,57,cm^2,,,177.4189481,raw_value,,,,,data from Figure 5c
+138072,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179531,216,Colony fecundity,77,mm^3,,,9690.700839,raw_value,,,,,data from Figure 5a
+138071,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179522,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138071,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179523,143,Water depth,9,m,,,2,median,1,range,3,,
+138071,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179524,151,Season,10,cat,,,Nov,raw_value,,,,,
+138071,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179525,155,Colony area,57,cm^2,,,158.7815364,raw_value,,,,,data from Figure 5c
+138071,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179526,216,Colony fecundity,77,mm^3,,,5451.554309,raw_value,,,,,data from Figure 5a
+138069,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179512,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138069,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179513,143,Water depth,9,m,,,2,median,1,range,3,,
+138069,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179514,151,Season,10,cat,,,Nov,raw_value,,,,,
+138069,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179515,155,Colony area,57,cm^2,,,133.9676687,raw_value,,,,,data from Figure 5c
+138069,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179516,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5a
+138068,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179507,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138068,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179508,143,Water depth,9,m,,,2,median,1,range,3,,
+138068,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179509,151,Season,10,cat,,,Nov,raw_value,,,,,
+138068,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179510,155,Colony area,57,cm^2,,,119.7016123,raw_value,,,,,data from Figure 5c
+138068,1,9,109,Acropora millepora,178,Lizard Island,-14.6689,145.4594,192,,179511,216,Colony fecundity,77,mm^3,,,4678.505909,raw_value,,,,,data from Figure 5a
+138150,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179917,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138150,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179918,143,Water depth,9,m,,,2,median,1,range,3,,
+138150,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179919,151,Season,10,cat,,,Nov,raw_value,,,,,
+138150,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179920,155,Colony area,57,cm^2,,,45.23764623,raw_value,,,,,data from Figure F5b
+138150,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179921,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138147,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179902,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138147,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179903,143,Water depth,9,m,,,2,median,1,range,3,,
+138147,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179904,151,Season,10,cat,,,Nov,raw_value,,,,,
+138147,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179905,155,Colony area,57,cm^2,,,42.02425277,raw_value,,,,,data from Figure F5b
+138147,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179906,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138146,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179897,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138146,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179898,143,Water depth,9,m,,,2,median,1,range,3,,
+138146,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179899,151,Season,10,cat,,,Nov,raw_value,,,,,
+138146,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179900,155,Colony area,57,cm^2,,,39.30972449,raw_value,,,,,data from Figure F5b
+138146,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179901,216,Colony fecundity,77,mm^3,,,299.6768557,raw_value,,,,,data from Figure F5b
+138145,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179892,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138145,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179893,143,Water depth,9,m,,,2,median,1,range,3,,
+138145,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179894,151,Season,10,cat,,,Nov,raw_value,,,,,
+138145,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179895,155,Colony area,57,cm^2,,,39.30972449,raw_value,,,,,data from Figure F5b
+138145,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179896,216,Colony fecundity,77,mm^3,,,253.0972706,raw_value,,,,,data from Figure F5b
+138143,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179882,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138143,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179883,143,Water depth,9,m,,,2,median,1,range,3,,
+138143,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179884,151,Season,10,cat,,,Nov,raw_value,,,,,
+138143,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179885,155,Colony area,57,cm^2,,,28.69458843,raw_value,,,,,data from Figure F5b
+138143,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179886,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138142,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179877,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138142,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179878,143,Water depth,9,m,,,2,median,1,range,3,,
+138142,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179879,151,Season,10,cat,,,Nov,raw_value,,,,,
+138142,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179880,155,Colony area,57,cm^2,,,21.09113735,raw_value,,,,,data from Figure F5b
+138142,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179881,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138141,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179872,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138141,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179873,143,Water depth,9,m,,,2,median,1,range,3,,
+138141,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179874,151,Season,10,cat,,,Nov,raw_value,,,,,
+138141,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179875,155,Colony area,57,cm^2,,,13.20079236,raw_value,,,,,data from Figure F5b
+138141,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179876,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138159,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179962,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138159,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179963,143,Water depth,9,m,,,2,median,1,range,3,,
+138159,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179964,151,Season,10,cat,,,Nov,raw_value,,,,,
+138159,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179965,155,Colony area,57,cm^2,,,79.37797217,raw_value,,,,,data from Figure F5b
+138159,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179966,216,Colony fecundity,77,mm^3,,,233.4228815,raw_value,,,,,data from Figure F5b
+138156,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179947,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138156,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179948,143,Water depth,9,m,,,2,median,1,range,3,,
+138156,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179949,151,Season,10,cat,,,Nov,raw_value,,,,,
+138156,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179950,155,Colony area,57,cm^2,,,72.27698036,raw_value,,,,,data from Figure F5b
+138156,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179951,216,Colony fecundity,77,mm^3,,,514.8221651,raw_value,,,,,data from Figure F5b
+138173,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180032,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138173,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180033,143,Water depth,9,m,,,2,median,1,range,3,,
+138173,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180034,151,Season,10,cat,,,Nov,raw_value,,,,,
+138173,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180035,155,Colony area,57,cm^2,,,403.7383465,raw_value,,,,,data from Figure F5b
+138173,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180036,216,Colony fecundity,77,mm^3,,,6665.53249,raw_value,,,,,data from Figure F5b
+138155,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179942,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138155,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179943,143,Water depth,9,m,,,2,median,1,range,3,,
+138155,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179944,151,Season,10,cat,,,Nov,raw_value,,,,,
+138155,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179945,155,Colony area,57,cm^2,,,69.90367368,raw_value,,,,,data from Figure F5b
+138155,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179946,216,Colony fecundity,77,mm^3,,,640.5049325,raw_value,,,,,data from Figure F5b
+138154,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179937,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138154,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179938,143,Water depth,9,m,,,2,median,1,range,3,,
+138154,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179939,151,Season,10,cat,,,Nov,raw_value,,,,,
+138154,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179940,155,Colony area,57,cm^2,,,65.37323852,raw_value,,,,,data from Figure F5b
+138154,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179941,216,Colony fecundity,77,mm^3,,,180.0923064,raw_value,,,,,data from Figure F5b
+138151,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179922,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138151,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179923,143,Water depth,9,m,,,2,median,1,range,3,,
+138151,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179924,151,Season,10,cat,,,Nov,raw_value,,,,,
+138151,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179925,155,Colony area,57,cm^2,,,46.15300681,raw_value,,,,,data from Figure F5b
+138151,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179926,216,Colony fecundity,77,mm^3,,,350.4795001,raw_value,,,,,data from Figure F5b
+138148,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179907,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138148,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179908,143,Water depth,9,m,,,2,median,1,range,3,,
+138148,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179909,151,Season,10,cat,,,Nov,raw_value,,,,,
+138148,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179910,155,Colony area,57,cm^2,,,43.17178445,raw_value,,,,,data from Figure F5b
+138148,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179911,216,Colony fecundity,77,mm^3,,,171.9816359,raw_value,,,,,data from Figure F5b
+138144,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179887,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138144,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179888,143,Water depth,9,m,,,2,median,1,range,3,,
+138144,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179889,151,Season,10,cat,,,Nov,raw_value,,,,,
+138144,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179890,155,Colony area,57,cm^2,,,33.25063932,raw_value,,,,,data from Figure F5b
+138144,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179891,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138140,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179867,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138140,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179868,143,Water depth,9,m,,,2,median,1,range,3,,
+138140,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179869,151,Season,10,cat,,,Nov,raw_value,,,,,
+138140,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179870,155,Colony area,57,cm^2,,,12.76732754,raw_value,,,,,data from Figure F5b
+138140,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179871,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138165,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179992,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138165,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179993,143,Water depth,9,m,,,2,median,1,range,3,,
+138165,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179994,151,Season,10,cat,,,Nov,raw_value,,,,,
+138165,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179995,155,Colony area,57,cm^2,,,95.10426642,raw_value,,,,,data from Figure F5b
+138165,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179996,216,Colony fecundity,77,mm^3,,,1089.937825,raw_value,,,,,data from Figure F5b
+138169,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180012,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138169,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180013,143,Water depth,9,m,,,2,median,1,range,3,,
+138169,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180014,151,Season,10,cat,,,Nov,raw_value,,,,,
+138169,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180015,155,Colony area,57,cm^2,,,153.9926526,raw_value,,,,,data from Figure F5b
+138169,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180016,216,Colony fecundity,77,mm^3,,,2242.881924,raw_value,,,,,data from Figure F5b
+138171,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180022,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138171,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180023,143,Water depth,9,m,,,2,median,1,range,3,,
+138171,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180024,151,Season,10,cat,,,Nov,raw_value,,,,,
+138171,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180025,155,Colony area,57,cm^2,,,178.4431989,raw_value,,,,,data from Figure F5b
+138171,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180026,216,Colony fecundity,77,mm^3,,,1207.648452,raw_value,,,,,data from Figure F5b
+138162,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179977,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138162,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179978,143,Water depth,9,m,,,2,median,1,range,3,,
+138162,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179979,151,Season,10,cat,,,Nov,raw_value,,,,,
+138162,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179980,155,Colony area,57,cm^2,,,87.76068411,raw_value,,,,,data from Figure F5b
+138162,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179981,216,Colony fecundity,77,mm^3,,,1182.859054,raw_value,,,,,data from Figure F5b
+138160,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179967,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138160,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179968,143,Water depth,9,m,,,2,median,1,range,3,,
+138160,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179969,151,Season,10,cat,,,Nov,raw_value,,,,,
+138160,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179970,155,Colony area,57,cm^2,,,79.90979196,raw_value,,,,,data from Figure F5b
+138160,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179971,216,Colony fecundity,77,mm^3,,,1179.592446,raw_value,,,,,data from Figure F5b
+138158,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179957,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138158,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179958,143,Water depth,9,m,,,2,median,1,range,3,,
+138158,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179959,151,Season,10,cat,,,Nov,raw_value,,,,,
+138158,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179960,155,Colony area,57,cm^2,,,76.77149538,raw_value,,,,,data from Figure F5b
+138158,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179961,216,Colony fecundity,77,mm^3,,,1707.04772,raw_value,,,,,data from Figure F5b
+138157,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179952,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138157,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179953,143,Water depth,9,m,,,2,median,1,range,3,,
+138157,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179954,151,Season,10,cat,,,Nov,raw_value,,,,,
+138157,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179955,155,Colony area,57,cm^2,,,76.77149538,raw_value,,,,,data from Figure F5b
+138157,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179956,216,Colony fecundity,77,mm^3,,,338.2344895,raw_value,,,,,data from Figure F5b
+138153,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179932,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138153,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179933,143,Water depth,9,m,,,2,median,1,range,3,,
+138153,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179934,151,Season,10,cat,,,Nov,raw_value,,,,,
+138153,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179935,155,Colony area,57,cm^2,,,50.67572842,raw_value,,,,,data from Figure F5b
+138153,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179936,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138152,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179927,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138152,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179928,143,Water depth,9,m,,,2,median,1,range,3,,
+138152,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179929,151,Season,10,cat,,,Nov,raw_value,,,,,
+138152,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179930,155,Colony area,57,cm^2,,,50.35006088,raw_value,,,,,data from Figure F5b
+138152,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179931,216,Colony fecundity,77,mm^3,,,873.782326,raw_value,,,,,data from Figure F5b
+138149,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179912,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138149,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179913,143,Water depth,9,m,,,2,median,1,range,3,,
+138149,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179914,151,Season,10,cat,,,Nov,raw_value,,,,,
+138149,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179915,155,Colony area,57,cm^2,,,44.93657831,raw_value,,,,,data from Figure F5b
+138149,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179916,216,Colony fecundity,77,mm^3,,,687.6522963,raw_value,,,,,data from Figure F5b
+138270,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180522,12,Polyp fecundity,6,units,,,4.461,raw_value,0.149,standard_error,,,
+138270,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180523,46,Size at maturity,57,cm^2,,,39.30972449,raw_value,,,,,"We follow a different definition than the one in the resource paper. The colony diameter at which a coral is observed to start producing gametes and reproducing, instead of the size in which all colonies are reproducing."
+138270,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180524,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138270,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180525,143,Water depth,9,m,,,2,median,1,range,3,,
+138270,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180526,148,Polyps per area,47,units cm^-2,,,50,mean,3.3,standard_error,,,Counts
+138270,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180527,151,Season,10,cat,,,Nov,raw_value,,,,,
+138270,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180528,212,Ratio of female to male gonads,66,x:y,,,1.55,mean,0.11,standard_error,,,
+138139,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179862,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138139,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179863,143,Water depth,9,m,,,2,median,1,range,3,,
+138139,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179864,151,Season,10,cat,,,Nov,raw_value,,,,,
+138139,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179865,155,Colony area,57,cm^2,,,9.965520801,raw_value,,,,,data from Figure F5b
+138139,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179866,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138138,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179857,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138138,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179858,143,Water depth,9,m,,,2,median,1,range,3,,
+138138,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179859,151,Season,10,cat,,,Nov,raw_value,,,,,
+138138,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179860,155,Colony area,57,cm^2,,,9.134820125,raw_value,,,,,data from Figure F5b
+138138,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179861,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138137,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179852,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138137,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179853,143,Water depth,9,m,,,2,median,1,range,3,,
+138137,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179854,151,Season,10,cat,,,Nov,raw_value,,,,,
+138137,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179855,155,Colony area,57,cm^2,,,8.776068411,raw_value,,,,,data from Figure F5b
+138137,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179856,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5b
+138172,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180027,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138172,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180028,143,Water depth,9,m,,,2,median,1,range,3,,
+138172,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180029,151,Season,10,cat,,,Nov,raw_value,,,,,
+138172,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180030,155,Colony area,57,cm^2,,,197.2876956,raw_value,,,,,data from Figure F5b
+138172,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180031,216,Colony fecundity,77,mm^3,,,1094.721037,raw_value,,,,,data from Figure F5b
+138170,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180017,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138170,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180018,143,Water depth,9,m,,,2,median,1,range,3,,
+138170,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180019,151,Season,10,cat,,,Nov,raw_value,,,,,
+138170,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180020,155,Colony area,57,cm^2,,,178.4431989,raw_value,,,,,data from Figure F5b
+138170,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180021,216,Colony fecundity,77,mm^3,,,4200.457744,raw_value,,,,,data from Figure F5b
+138168,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180007,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138168,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180008,143,Water depth,9,m,,,2,median,1,range,3,,
+138168,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180009,151,Season,10,cat,,,Nov,raw_value,,,,,
+138168,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180010,155,Colony area,57,cm^2,,,132.0079236,raw_value,,,,,data from Figure F5b
+138168,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180011,216,Colony fecundity,77,mm^3,,,2348.632821,raw_value,,,,,data from Figure F5b
+138167,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180002,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138167,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180003,143,Water depth,9,m,,,2,median,1,range,3,,
+138167,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180004,151,Season,10,cat,,,Nov,raw_value,,,,,
+138167,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180005,155,Colony area,57,cm^2,,,123.4809608,raw_value,,,,,data from Figure F5b
+138167,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180006,216,Colony fecundity,77,mm^3,,,1366.728826,raw_value,,,,,data from Figure F5b
+138166,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179997,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138166,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179998,143,Water depth,9,m,,,2,median,1,range,3,,
+138166,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179999,151,Season,10,cat,,,Nov,raw_value,,,,,
+138166,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180000,155,Colony area,57,cm^2,,,121.0040761,raw_value,,,,,data from Figure F5b
+138166,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,180001,216,Colony fecundity,77,mm^3,,,1819.539055,raw_value,,,,,data from Figure F5b
+138163,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179982,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138163,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179983,143,Water depth,9,m,,,2,median,1,range,3,,
+138163,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179984,151,Season,10,cat,,,Nov,raw_value,,,,,
+138163,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179985,155,Colony area,57,cm^2,,,89.53647655,raw_value,,,,,data from Figure F5b
+138163,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179986,216,Colony fecundity,77,mm^3,,,1630.172909,raw_value,,,,,data from Figure F5b
+138161,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179972,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138161,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179973,143,Water depth,9,m,,,2,median,1,range,3,,
+138161,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179974,151,Season,10,cat,,,Nov,raw_value,,,,,
+138161,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179975,155,Colony area,57,cm^2,,,83.19553138,raw_value,,,,,data from Figure F5b
+138161,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179976,216,Colony fecundity,77,mm^3,,,112.8151303,raw_value,,,,,data from Figure F5b
+138164,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179987,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138164,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179988,143,Water depth,9,m,,,2,median,1,range,3,,
+138164,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179989,151,Season,10,cat,,,Nov,raw_value,,,,,
+138164,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179990,155,Colony area,57,cm^2,,,95.10426642,raw_value,,,,,data from Figure F5b
+138164,1,9,115,Acropora nana,178,Lizard Island,-14.6689,145.4594,192,,179991,216,Colony fecundity,77,mm^3,,,691.3090359,raw_value,,,,,data from Figure F5b
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198476,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198477,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198478,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198479,148,Polyps per area,47,units cm^-2,,,3.4,mean,0.9,standard_deviation,,4,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198480,151,Season,10,cat,,,June-August,raw_value,,,,,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198481,209,Mesentery fecundity,6,units,,,11.2,mean,1,standard_deviation,,4,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198482,210,Number of septa per corallite,6,units,,,23.7,mean,0.8,standard_deviation,,4,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198483,211,Eggs per area,47,units cm^-2,,,900,mean,250,standard_deviation,,4,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198463,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198464,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198465,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198466,148,Polyps per area,47,units cm^-2,,,3.4,mean,0.9,standard_deviation,,8,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198467,151,Season,10,cat,,,June-August,raw_value,,,,,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198468,209,Mesentery fecundity,6,units,,,11.7,mean,1.1,standard_deviation,,8,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198469,210,Number of septa per corallite,6,units,,,23.7,mean,0.8,standard_deviation,,8,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198470,211,Eggs per area,47,units cm^-2,,,940,mean,260,standard_deviation,,8,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198463,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198464,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198465,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198466,148,Polyps per area,47,units cm^-2,,,3.4,mean,0.9,standard_deviation,,8,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198467,151,Season,10,cat,,,June-August,raw_value,,,,,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198468,209,Mesentery fecundity,6,units,,,11.7,mean,1.1,standard_deviation,,8,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198469,210,Number of septa per corallite,6,units,,,23.7,mean,0.8,standard_deviation,,8,
+156167,1,9,794,Coelastrea aspera,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198470,211,Eggs per area,47,units cm^-2,,,940,mean,260,standard_deviation,,8,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198476,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198477,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198478,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198479,148,Polyps per area,47,units cm^-2,,,3.4,mean,0.9,standard_deviation,,4,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198480,151,Season,10,cat,,,June-August,raw_value,,,,,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198481,209,Mesentery fecundity,6,units,,,11.2,mean,1,standard_deviation,,4,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198482,210,Number of septa per corallite,6,units,,,23.7,mean,0.8,standard_deviation,,4,
+156169,1,9,794,Coelastrea aspera,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198483,211,Eggs per area,47,units cm^-2,,,900,mean,250,standard_deviation,,4,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178594,12,Polyp fecundity,6,units,,,1200,raw_value,,,,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178595,46,Size at maturity,29,cm,,,4,raw_value,,,,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178596,142,Habitat type,10,cat,,,back,raw_value,,,,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178597,143,Water depth,9,m,,,5.5,median,2,range,9,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178598,148,Polyps per area,47,units cm^-2,,,1.273,raw_value,,,,,estimated from a colony with 10cm diameter
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178599,211,Eggs per area,47,units cm^-2,,,1527.8,raw_value,,,,,estimated from a colony with 10cm diameter
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178600,213,Corallite width,29,cm,,,1,raw_value,,,,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178601,214,Mature egg diameter,39,µm,,,360,raw_value,,,,,Measured from sections
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178602,214,Mature egg diameter,39,µm,,,500,raw_value,,,,,Measured from dissected gonads
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178594,12,Polyp fecundity,6,units,,,1200,raw_value,,,,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178595,46,Size at maturity,29,cm,,,4,raw_value,,,,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178596,142,Habitat type,10,cat,,,back,raw_value,,,,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178597,143,Water depth,9,m,,,5.5,median,2,range,9,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178598,148,Polyps per area,47,units cm^-2,,,1.273,raw_value,,,,,estimated from a colony with 10cm diameter
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178599,211,Eggs per area,47,units cm^-2,,,1527.8,raw_value,,,,,estimated from a colony with 10cm diameter
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178600,213,Corallite width,29,cm,,,1,raw_value,,,,,
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178601,214,Mature egg diameter,39,µm,,,360,raw_value,,,,,Measured from sections
+137894,1,9,648,Dipsastraea favus,178,Lizard Island,-14.6689,145.4594,391,,178602,214,Mature egg diameter,39,µm,,,500,raw_value,,,,,Measured from dissected gonads
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198489,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198490,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198491,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198492,148,Polyps per area,47,units cm^-2,,,3.9,mean,1.2,standard_deviation,,11,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198493,151,Season,10,cat,,,June-August,raw_value,,,,,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198494,209,Mesentery fecundity,6,units,,,3.9,mean,0.6,standard_deviation,,11,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198495,210,Number of septa per corallite,6,units,,,23.2,mean,1,standard_deviation,,11,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198496,211,Eggs per area,47,units cm^-2,,,340,mean,130,standard_deviation,,11,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198502,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198503,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198504,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198505,148,Polyps per area,47,units cm^-2,,,3.9,mean,1.2,standard_deviation,,7,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198506,151,Season,10,cat,,,June-August,raw_value,,,,,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198507,209,Mesentery fecundity,6,units,,,4.9,mean,0.8,standard_deviation,,7,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198508,210,Number of septa per corallite,6,units,,,23.2,mean,1,standard_deviation,,7,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198509,211,Eggs per area,47,units cm^-2,,,420,mean,160,standard_deviation,,7,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198502,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198503,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198504,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198505,148,Polyps per area,47,units cm^-2,,,3.9,mean,1.2,standard_deviation,,7,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198506,151,Season,10,cat,,,June-August,raw_value,,,,,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198507,209,Mesentery fecundity,6,units,,,4.9,mean,0.8,standard_deviation,,7,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198508,210,Number of septa per corallite,6,units,,,23.2,mean,1,standard_deviation,,7,
+156173,1,9,799,Goniastrea favulus,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198509,211,Eggs per area,47,units cm^-2,,,420,mean,160,standard_deviation,,7,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198489,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198490,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198491,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198492,148,Polyps per area,47,units cm^-2,,,3.9,mean,1.2,standard_deviation,,11,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198493,151,Season,10,cat,,,June-August,raw_value,,,,,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198494,209,Mesentery fecundity,6,units,,,3.9,mean,0.6,standard_deviation,,11,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198495,210,Number of septa per corallite,6,units,,,23.2,mean,1,standard_deviation,,11,
+156171,1,9,799,Goniastrea favulus,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198496,211,Eggs per area,47,units cm^-2,,,340,mean,130,standard_deviation,,11,
+138271,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180529,12,Polyp fecundity,6,units,,,45.818,raw_value,1.63,standard_error,,,
+138271,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180530,46,Size at maturity,57,cm^2,,,27.95117054,raw_value,,,,,"We follow a different definition than the one in the resource paper. The colony diameter at which a coral is observed to start producing gametes and reproducing, instead of the size in which all colonies are reproducing."
+138271,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180531,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138271,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180532,143,Water depth,9,m,,,2,median,1,range,3,,
+138271,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180533,148,Polyps per area,47,units cm^-2,,,8.5,mean,1.7,standard_error,,,Counts
+138271,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180534,151,Season,10,cat,,,Nov,raw_value,,,,,
+138271,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180535,212,Ratio of female to male gonads,66,x:y,,,0.37,mean,0.14,standard_error,,,
+138174,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180037,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138174,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180038,143,Water depth,9,m,,,2,median,1,range,3,,
+138174,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180039,151,Season,10,cat,,,Nov,raw_value,,,,,
+138174,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180040,155,Colony area,57,cm^2,,,3.894933077,raw_value,,,,,data from Figure F5e
+138174,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180041,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5e
+138177,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180052,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138177,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180053,143,Water depth,9,m,,,2,median,1,range,3,,
+138177,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180054,151,Season,10,cat,,,Nov,raw_value,,,,,
+138177,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180055,155,Colony area,57,cm^2,,,8.900204796,raw_value,,,,,data from Figure F5e
+138177,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180056,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5e
+138179,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180062,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138179,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180063,143,Water depth,9,m,,,2,median,1,range,3,,
+138179,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180064,151,Season,10,cat,,,Nov,raw_value,,,,,
+138179,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180065,155,Colony area,57,cm^2,,,27.95117054,raw_value,,,,,data from Figure F5e
+138179,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180066,216,Colony fecundity,77,mm^3,,,443.4265543,raw_value,,,,,data from Figure F5e
+138181,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180072,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138181,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180073,143,Water depth,9,m,,,2,median,1,range,3,,
+138181,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180074,151,Season,10,cat,,,Nov,raw_value,,,,,
+138181,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180075,155,Colony area,57,cm^2,,,39.73745051,raw_value,,,,,data from Figure F5e
+138181,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180076,216,Colony fecundity,77,mm^3,,,202.4698196,raw_value,,,,,data from Figure F5e
+138183,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180082,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138183,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180083,143,Water depth,9,m,,,2,median,1,range,3,,
+138183,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180084,151,Season,10,cat,,,Nov,raw_value,,,,,
+138183,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180085,155,Colony area,57,cm^2,,,94.71090795,raw_value,,,,,data from Figure F5e
+138183,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180086,216,Colony fecundity,77,mm^3,,,3413.286808,raw_value,,,,,data from Figure F5e
+138185,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180092,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138185,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180093,143,Water depth,9,m,,,2,median,1,range,3,,
+138185,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180094,151,Season,10,cat,,,Nov,raw_value,,,,,
+138185,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180095,155,Colony area,57,cm^2,,,148.730487,raw_value,,,,,data from Figure F5e
+138185,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180096,216,Colony fecundity,77,mm^3,,,4480.258533,raw_value,,,,,data from Figure F5e
+138186,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180097,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138186,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180098,143,Water depth,9,m,,,2,median,1,range,3,,
+138186,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180099,151,Season,10,cat,,,Nov,raw_value,,,,,
+138186,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180100,155,Colony area,57,cm^2,,,171.0015315,raw_value,,,,,data from Figure F5e
+138186,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180101,216,Colony fecundity,77,mm^3,,,699.8095316,raw_value,,,,,data from Figure F5e
+138187,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180102,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138187,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180103,143,Water depth,9,m,,,2,median,1,range,3,,
+138187,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180104,151,Season,10,cat,,,Nov,raw_value,,,,,
+138187,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180105,155,Colony area,57,cm^2,,,178.1968407,raw_value,,,,,data from Figure F5e
+138187,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180106,216,Colony fecundity,77,mm^3,,,6680.900434,raw_value,,,,,data from Figure F5e
+138190,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180117,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138190,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180118,143,Water depth,9,m,,,2,median,1,range,3,,
+138190,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180119,151,Season,10,cat,,,Nov,raw_value,,,,,
+138190,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180120,155,Colony area,57,cm^2,,,288.3367507,raw_value,,,,,data from Figure F5e
+138190,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180121,216,Colony fecundity,77,mm^3,,,7891.234848,raw_value,,,,,data from Figure F5e
+138192,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180127,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138192,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180128,143,Water depth,9,m,,,2,median,1,range,3,,
+138192,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180129,151,Season,10,cat,,,Nov,raw_value,,,,,
+138192,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180130,155,Colony area,57,cm^2,,,299.4332334,raw_value,,,,,data from Figure F5e
+138192,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180131,216,Colony fecundity,77,mm^3,,,9144.343031,raw_value,,,,,data from Figure F5e
+138194,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180137,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138194,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180138,143,Water depth,9,m,,,2,median,1,range,3,,
+138194,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180139,151,Season,10,cat,,,Nov,raw_value,,,,,
+138194,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180140,155,Colony area,57,cm^2,,,332.812784,raw_value,,,,,data from Figure F5e
+138194,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180141,216,Colony fecundity,77,mm^3,,,12276.21892,raw_value,,,,,data from Figure F5e
+138198,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180157,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138198,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180158,143,Water depth,9,m,,,2,median,1,range,3,,
+138198,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180159,151,Season,10,cat,,,Nov,raw_value,,,,,
+138198,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180160,155,Colony area,57,cm^2,,,395.4576671,raw_value,,,,,data from Figure F5e
+138198,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180161,216,Colony fecundity,77,mm^3,,,10584.22271,raw_value,,,,,data from Figure F5e
+138199,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180162,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138199,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180163,143,Water depth,9,m,,,2,median,1,range,3,,
+138199,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180164,151,Season,10,cat,,,Nov,raw_value,,,,,
+138199,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180165,155,Colony area,57,cm^2,,,470.3270964,raw_value,,,,,data from Figure F5e
+138199,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180166,216,Colony fecundity,77,mm^3,,,14510.08881,raw_value,,,,,data from Figure F5e
+138200,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180167,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138200,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180168,143,Water depth,9,m,,,2,median,1,range,3,,
+138200,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180169,151,Season,10,cat,,,Nov,raw_value,,,,,
+138200,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180170,155,Colony area,57,cm^2,,,572.0052304,raw_value,,,,,data from Figure F5e
+138200,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180171,216,Colony fecundity,77,mm^3,,,22099.39317,raw_value,,,,,data from Figure F5e
+138201,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180172,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138201,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180173,143,Water depth,9,m,,,2,median,1,range,3,,
+138201,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180174,151,Season,10,cat,,,Nov,raw_value,,,,,
+138201,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180175,155,Colony area,57,cm^2,,,738.754263,raw_value,,,,,data from Figure F5e
+138201,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180176,216,Colony fecundity,77,mm^3,,,24014.96268,raw_value,,,,,data from Figure F5e
+138202,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180177,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138202,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180178,143,Water depth,9,m,,,2,median,1,range,3,,
+138202,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180179,151,Season,10,cat,,,Nov,raw_value,,,,,
+138202,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180180,155,Colony area,57,cm^2,,,766.125645,raw_value,,,,,data from Figure F5e
+138202,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180181,216,Colony fecundity,77,mm^3,,,14176.51123,raw_value,,,,,data from Figure F5e
+138203,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180182,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138203,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180183,143,Water depth,9,m,,,2,median,1,range,3,,
+138203,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180184,151,Season,10,cat,,,Nov,raw_value,,,,,
+138203,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180185,155,Colony area,57,cm^2,,,862.581223,raw_value,,,,,data from Figure F5e
+138203,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180186,216,Colony fecundity,77,mm^3,,,4538.416167,raw_value,,,,,data from Figure F5e
+138175,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180042,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138175,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180043,143,Water depth,9,m,,,2,median,1,range,3,,
+138175,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180044,151,Season,10,cat,,,Nov,raw_value,,,,,
+138175,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180045,155,Colony area,57,cm^2,,,4.879777273,raw_value,,,,,data from Figure F5e
+138175,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180046,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5e
+138176,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180047,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138176,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180048,143,Water depth,9,m,,,2,median,1,range,3,,
+138176,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180049,151,Season,10,cat,,,Nov,raw_value,,,,,
+138176,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180050,155,Colony area,57,cm^2,,,6.842266728,raw_value,,,,,data from Figure F5e
+138176,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180051,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5e
+138178,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180057,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138178,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180058,143,Water depth,9,m,,,2,median,1,range,3,,
+138178,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180059,151,Season,10,cat,,,Nov,raw_value,,,,,
+138178,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180060,155,Colony area,57,cm^2,,,14.72312502,raw_value,,,,,data from Figure F5e
+138178,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180061,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5e
+138180,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180067,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138180,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180068,143,Water depth,9,m,,,2,median,1,range,3,,
+138180,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180069,151,Season,10,cat,,,Nov,raw_value,,,,,
+138180,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180070,155,Colony area,57,cm^2,,,38.80610014,raw_value,,,,,data from Figure F5e
+138180,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180071,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure F5e
+138182,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180077,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138182,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180078,143,Water depth,9,m,,,2,median,1,range,3,,
+138182,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180079,151,Season,10,cat,,,Nov,raw_value,,,,,
+138182,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180080,155,Colony area,57,cm^2,,,59.22430869,raw_value,,,,,data from Figure F5e
+138182,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180081,216,Colony fecundity,77,mm^3,,,328.761538,raw_value,,,,,data from Figure F5e
+138184,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180087,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138184,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180088,143,Water depth,9,m,,,2,median,1,range,3,,
+138184,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180089,151,Season,10,cat,,,Nov,raw_value,,,,,
+138184,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180090,155,Colony area,57,cm^2,,,102.8016298,raw_value,,,,,data from Figure F5e
+138184,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180091,216,Colony fecundity,77,mm^3,,,2384.063795,raw_value,,,,,data from Figure F5e
+138188,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180107,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138188,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180108,143,Water depth,9,m,,,2,median,1,range,3,,
+138188,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180109,151,Season,10,cat,,,Nov,raw_value,,,,,
+138188,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180110,155,Colony area,57,cm^2,,,265.5216878,raw_value,,,,,data from Figure F5e
+138188,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180111,216,Colony fecundity,77,mm^3,,,9148.555587,raw_value,,,,,data from Figure F5e
+138189,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180112,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138189,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180113,143,Water depth,9,m,,,2,median,1,range,3,,
+138189,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180114,151,Season,10,cat,,,Nov,raw_value,,,,,
+138189,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180115,155,Colony area,57,cm^2,,,286.417797,raw_value,,,,,data from Figure F5e
+138189,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180116,216,Colony fecundity,77,mm^3,,,13943.40539,raw_value,,,,,data from Figure F5e
+138191,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180122,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138191,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180123,143,Water depth,9,m,,,2,median,1,range,3,,
+138191,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180124,151,Season,10,cat,,,Nov,raw_value,,,,,
+138191,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180125,155,Colony area,57,cm^2,,,294.2388402,raw_value,,,,,data from Figure F5e
+138191,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180126,216,Colony fecundity,77,mm^3,,,2474.711306,raw_value,,,,,data from Figure F5e
+138193,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180132,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138193,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180133,143,Water depth,9,m,,,2,median,1,range,3,,
+138193,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180134,151,Season,10,cat,,,Nov,raw_value,,,,,
+138193,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180135,155,Colony area,57,cm^2,,,311.099992,raw_value,,,,,data from Figure F5e
+138193,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180136,216,Colony fecundity,77,mm^3,,,16495.81104,raw_value,,,,,data from Figure F5e
+138195,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180142,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138195,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180143,143,Water depth,9,m,,,2,median,1,range,3,,
+138195,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180144,151,Season,10,cat,,,Nov,raw_value,,,,,
+138195,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180145,155,Colony area,57,cm^2,,,341.9007079,raw_value,,,,,data from Figure F5e
+138195,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180146,216,Colony fecundity,77,mm^3,,,2003.010534,raw_value,,,,,data from Figure F5e
+138196,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180147,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138196,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180148,143,Water depth,9,m,,,2,median,1,range,3,,
+138196,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180149,151,Season,10,cat,,,Nov,raw_value,,,,,
+138196,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180150,155,Colony area,57,cm^2,,,344.9054048,raw_value,,,,,data from Figure F5e
+138196,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180151,216,Colony fecundity,77,mm^3,,,4101.985668,raw_value,,,,,data from Figure F5e
+138197,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180152,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138197,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180153,143,Water depth,9,m,,,2,median,1,range,3,,
+138197,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180154,151,Season,10,cat,,,Nov,raw_value,,,,,
+138197,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180155,155,Colony area,57,cm^2,,,391.9223225,raw_value,,,,,data from Figure F5e
+138197,1,9,805,Goniastrea retiformis,178,Lizard Island,-14.6689,145.4594,192,,180156,216,Colony fecundity,77,mm^3,,,4460.696246,raw_value,,,,,data from Figure F5e
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178578,12,Polyp fecundity,6,units,,,2800,raw_value,,,,,
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178579,142,Habitat type,10,cat,,,back,raw_value,,,,,
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178580,143,Water depth,9,m,,,5.5,median,2,range,9,,
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178581,148,Polyps per area,47,units cm^-2,,,0.127,raw_value,,,,,estimated from a colony with 10cm diameter
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178582,211,Eggs per area,47,units cm^-2,,,356.5,raw_value,,,,,estimated from a colony with 10cm diameter
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178583,213,Corallite width,29,cm,,,2.5,raw_value,,,,,
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178584,214,Mature egg diameter,39,µm,,,600,raw_value,,,,,Measured from sections
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178585,214,Mature egg diameter,39,µm,,,750,raw_value,,,,,Measured from dissected gonads
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178578,12,Polyp fecundity,6,units,,,2800,raw_value,,,,,
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178579,142,Habitat type,10,cat,,,back,raw_value,,,,,
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178580,143,Water depth,9,m,,,5.5,median,2,range,9,,
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178581,148,Polyps per area,47,units cm^-2,,,0.127,raw_value,,,,,estimated from a colony with 10cm diameter
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178582,211,Eggs per area,47,units cm^-2,,,356.5,raw_value,,,,,estimated from a colony with 10cm diameter
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178583,213,Corallite width,29,cm,,,2.5,raw_value,,,,,
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178584,214,Mature egg diameter,39,µm,,,600,raw_value,,,,,Measured from sections
+137892,1,9,925,Lobophyllia corymbosa,178,Lizard Island,-14.6689,145.4594,391,,178585,214,Mature egg diameter,39,µm,,,750,raw_value,,,,,Measured from dissected gonads
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198528,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198529,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198530,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198531,148,Polyps per area,47,units cm^-2,,,4.1,mean,0.7,standard_deviation,,8,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198532,151,Season,10,cat,,,June-August,raw_value,,,,,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198533,209,Mesentery fecundity,6,units,,,3.6,mean,0.8,standard_deviation,,8,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198534,210,Number of septa per corallite,6,units,,,20,mean,0.7,standard_deviation,,8,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198535,211,Eggs per area,47,units cm^-2,,,290,mean,100,standard_deviation,,8,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198515,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198516,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198517,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198518,148,Polyps per area,47,units cm^-2,,,4.1,mean,0.7,standard_deviation,,17,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198519,151,Season,10,cat,,,June-August,raw_value,,,,,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198520,209,Mesentery fecundity,6,units,,,4,mean,0.8,standard_deviation,,17,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198521,210,Number of septa per corallite,6,units,,,20,mean,0.7,standard_deviation,,17,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198522,211,Eggs per area,47,units cm^-2,,,330,mean,100,standard_deviation,,17,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198515,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198516,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198517,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198518,148,Polyps per area,47,units cm^-2,,,4.1,mean,0.7,standard_deviation,,17,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198519,151,Season,10,cat,,,June-August,raw_value,,,,,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198520,209,Mesentery fecundity,6,units,,,4,mean,0.8,standard_deviation,,17,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198521,210,Number of septa per corallite,6,units,,,20,mean,0.7,standard_deviation,,17,
+156175,1,9,1203,Platygyra sinensis,3,"Geoffrey Bay, Magnetic Island",-19.156016,146.864828,273,,198522,211,Eggs per area,47,units cm^-2,,,330,mean,100,standard_deviation,,17,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198528,142,Habitat type,10,cat,,,flat,raw_value,,,,,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198529,143,Water depth,9,m,6,Depth gauge,2,raw_value,,,,,tidal range of 3.5m. They have collected data on low tide only.
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198530,144,Wave exposure,10,cat,,,sheltered,raw_value,,,,,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198531,148,Polyps per area,47,units cm^-2,,,4.1,mean,0.7,standard_deviation,,8,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198532,151,Season,10,cat,,,June-August,raw_value,,,,,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198533,209,Mesentery fecundity,6,units,,,3.6,mean,0.8,standard_deviation,,8,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198534,210,Number of septa per corallite,6,units,,,20,mean,0.7,standard_deviation,,8,
+156177,1,9,1203,Platygyra sinensis,177,"Pioneer Bay, Orpheus Island",-18.610784,146.488051,273,,198535,211,Eggs per area,47,units cm^-2,,,290,mean,100,standard_deviation,,8,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178586,12,Polyp fecundity,6,units,,,72,raw_value,,,,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178587,46,Size at maturity,29,cm,,,8,raw_value,,,,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178588,142,Habitat type,10,cat,,,back,raw_value,,,,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178589,143,Water depth,9,m,,,5.5,median,2,range,9,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178590,148,Polyps per area,47,units cm^-2,,,38.197,raw_value,,,,,estimated from a colony with 10cm diameter
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178591,211,Eggs per area,47,units cm^-2,,,2750.19,raw_value,,,,,estimated from a colony with 10cm diameter
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178592,213,Corallite width,29,cm,,,0.1,raw_value,,,,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178593,214,Mature egg diameter,39,µm,,,150,raw_value,,,,,Measured from sections
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178586,12,Polyp fecundity,6,units,,,72,raw_value,,,,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178587,46,Size at maturity,29,cm,,,8,raw_value,,,,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178588,142,Habitat type,10,cat,,,back,raw_value,,,,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178589,143,Water depth,9,m,,,5.5,median,2,range,9,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178590,148,Polyps per area,47,units cm^-2,,,38.197,raw_value,,,,,estimated from a colony with 10cm diameter
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178591,211,Eggs per area,47,units cm^-2,,,2750.19,raw_value,,,,,estimated from a colony with 10cm diameter
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178592,213,Corallite width,29,cm,,,0.1,raw_value,,,,,
+137893,1,9,1271,Porites australiensis,178,Lizard Island,-14.6689,145.4594,391,,178593,214,Mature egg diameter,39,µm,,,150,raw_value,,,,,Measured from sections
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178571,12,Polyp fecundity,6,units,,,72,raw_value,,,,,
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178572,142,Habitat type,10,cat,,,back,raw_value,,,,,
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178573,143,Water depth,9,m,,,5.5,median,2,range,9,,
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178574,148,Polyps per area,47,units cm^-2,,,38.197,raw_value,,,,,estimated from a colony with 10cm diameter
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178575,211,Eggs per area,47,units cm^-2,,,2750.19,raw_value,,,,,estimated from a colony with 10cm diameter
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178576,213,Corallite width,29,cm,,,0.1,raw_value,,,,,
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178577,214,Mature egg diameter,39,µm,,,180,raw_value,,,,,Measured from sections
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178571,12,Polyp fecundity,6,units,,,72,raw_value,,,,,
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178572,142,Habitat type,10,cat,,,back,raw_value,,,,,
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178573,143,Water depth,9,m,,,5.5,median,2,range,9,,
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178574,148,Polyps per area,47,units cm^-2,,,38.197,raw_value,,,,,estimated from a colony with 10cm diameter
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178575,211,Eggs per area,47,units cm^-2,,,2750.19,raw_value,,,,,estimated from a colony with 10cm diameter
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178576,213,Corallite width,29,cm,,,0.1,raw_value,,,,,
+137891,1,9,1304,Porites lutea,178,Lizard Island,-14.6689,145.4594,391,,178577,214,Mature egg diameter,39,µm,,,180,raw_value,,,,,Measured from sections
+138216,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180247,12,Polyp fecundity,6,units,,,0.8659,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138216,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180248,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138216,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180249,143,Water depth,9,m,,,2,median,1,range,3,,
+138216,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180250,151,Season,10,cat,,,Nov,raw_value,,,,,
+138216,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180251,155,Colony area,57,cm^2,,,85.48698492,raw_value,,,,,Data from Figure 3c
+138214,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180237,12,Polyp fecundity,6,units,,,0.5908,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138214,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180238,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138214,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180239,143,Water depth,9,m,,,2,median,1,range,3,,
+138214,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180240,151,Season,10,cat,,,Nov,raw_value,,,,,
+138214,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180241,155,Colony area,57,cm^2,,,80.46370017,raw_value,,,,,Data from Figure 3c
+138212,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180227,12,Polyp fecundity,6,units,,,0.9973,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138212,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180228,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138212,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180229,143,Water depth,9,m,,,2,median,1,range,3,,
+138212,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180230,151,Season,10,cat,,,Nov,raw_value,,,,,
+138212,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180231,155,Colony area,57,cm^2,,,70.21016602,raw_value,,,,,Data from Figure 3c
+138209,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180212,12,Polyp fecundity,6,units,,,0.7162,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138209,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180213,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138209,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180214,143,Water depth,9,m,,,2,median,1,range,3,,
+138209,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180215,151,Season,10,cat,,,Nov,raw_value,,,,,
+138209,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180216,155,Colony area,57,cm^2,,,46.48362619,raw_value,,,,,Data from Figure 3c
+138208,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180207,12,Polyp fecundity,6,units,,,0,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138208,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180208,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138208,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180209,143,Water depth,9,m,,,2,median,1,range,3,,
+138208,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180210,151,Season,10,cat,,,Nov,raw_value,,,,,
+138208,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180211,155,Colony area,57,cm^2,,,43.71193179,raw_value,,,,,Data from Figure 3c
+138207,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180202,12,Polyp fecundity,6,units,,,0.0584,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138207,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180203,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138207,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180204,143,Water depth,9,m,,,2,median,1,range,3,,
+138207,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180205,151,Season,10,cat,,,Nov,raw_value,,,,,
+138207,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180206,155,Colony area,57,cm^2,,,37.4541547,raw_value,,,,,Data from Figure 3c
+138206,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180197,12,Polyp fecundity,6,units,,,0.728,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138206,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180198,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138206,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180199,143,Water depth,9,m,,,2,median,1,range,3,,
+138206,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180200,151,Season,10,cat,,,Nov,raw_value,,,,,
+138206,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180201,155,Colony area,57,cm^2,,,34.43499308,raw_value,,,,,Data from Figure 3c
+156195,1,92,1441,Stylophora pistillata,43,"Eilat, Israel",29.54973056,34.95620556,406,,198606,12,Polyp fecundity,6,units,,,0.482,mean,0.267,standard_deviation,6,,
+156195,1,92,1441,Stylophora pistillata,43,"Eilat, Israel",29.54973056,34.95620556,406,,198607,230,Fish association controlled,10,cat,,,Associated fishes removed,raw_value,,,,,
+138253,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180432,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138253,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180433,143,Water depth,9,m,,,2,median,1,range,3,,
+138253,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180434,151,Season,10,cat,,,Nov,raw_value,,,,,
+138253,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180435,155,Colony area,57,cm^2,,,107.944371,raw_value,,,,,data from Figure 5f
+138253,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180436,216,Colony fecundity,77,mm^3,,,4974.08,raw_value,,,,,data from Figure 5f
+138254,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180437,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138254,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180438,143,Water depth,9,m,,,2,median,1,range,3,,
+138254,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180439,151,Season,10,cat,,,Nov,raw_value,,,,,
+138254,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180440,155,Colony area,57,cm^2,,,112.9795915,raw_value,,,,,data from Figure 5f
+138254,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180441,216,Colony fecundity,77,mm^3,,,7757.9,raw_value,,,,,data from Figure 5f
+138255,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180442,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138255,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180443,143,Water depth,9,m,,,2,median,1,range,3,,
+138255,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180444,151,Season,10,cat,,,Nov,raw_value,,,,,
+138255,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180445,155,Colony area,57,cm^2,,,120.364939,raw_value,,,,,data from Figure 5f
+138255,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180446,216,Colony fecundity,77,mm^3,,,5892.86,raw_value,,,,,data from Figure 5f
+138257,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180452,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138257,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180453,143,Water depth,9,m,,,2,median,1,range,3,,
+138257,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180454,151,Season,10,cat,,,Nov,raw_value,,,,,
+138257,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180455,155,Colony area,57,cm^2,,,141.7098375,raw_value,,,,,data from Figure 5f
+138257,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180456,216,Colony fecundity,77,mm^3,,,6833.39,raw_value,,,,,data from Figure 5f
+138259,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180462,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138259,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180463,143,Water depth,9,m,,,2,median,1,range,3,,
+138259,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180464,151,Season,10,cat,,,Nov,raw_value,,,,,
+138259,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180465,155,Colony area,57,cm^2,,,179.3494297,raw_value,,,,,data from Figure 5f
+138259,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180466,216,Colony fecundity,77,mm^3,,,5648.37,raw_value,,,,,data from Figure 5f
+138260,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180467,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138260,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180468,143,Water depth,9,m,,,2,median,1,range,3,,
+138260,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180469,151,Season,10,cat,,,Nov,raw_value,,,,,
+138260,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180470,155,Colony area,57,cm^2,,,182.8100216,raw_value,,,,,data from Figure 5f
+138260,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180471,216,Colony fecundity,77,mm^3,,,14324.18,raw_value,,,,,data from Figure 5f
+138262,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180477,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138262,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180478,143,Water depth,9,m,,,2,median,1,range,3,,
+138262,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180479,151,Season,10,cat,,,Nov,raw_value,,,,,
+138262,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180480,155,Colony area,57,cm^2,,,229.2450675,raw_value,,,,,data from Figure 5f
+138262,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180481,216,Colony fecundity,77,mm^3,,,11351.72,raw_value,,,,,data from Figure 5f
+138263,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180482,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138263,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180483,143,Water depth,9,m,,,2,median,1,range,3,,
+138263,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180484,151,Season,10,cat,,,Nov,raw_value,,,,,
+138263,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180485,155,Colony area,57,cm^2,,,255.6819089,raw_value,,,,,data from Figure 5f
+138263,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180486,216,Colony fecundity,77,mm^3,,,18079.07,raw_value,,,,,data from Figure 5f
+138264,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180487,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138264,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180488,143,Water depth,9,m,,,2,median,1,range,3,,
+138264,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180489,151,Season,10,cat,,,Nov,raw_value,,,,,
+138264,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180490,155,Colony area,57,cm^2,,,279.7692638,raw_value,,,,,data from Figure 5f
+138264,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180491,216,Colony fecundity,77,mm^3,,,8996.05,raw_value,,,,,data from Figure 5f
+138265,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180492,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138265,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180493,143,Water depth,9,m,,,2,median,1,range,3,,
+138265,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180494,151,Season,10,cat,,,Nov,raw_value,,,,,
+138265,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180495,155,Colony area,57,cm^2,,,285.1674814,raw_value,,,,,data from Figure 5f
+138265,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180496,216,Colony fecundity,77,mm^3,,,24309.84,raw_value,,,,,data from Figure 5f
+156193,1,92,1441,Stylophora pistillata,43,"Eilat, Israel",29.54973056,34.95620556,406,,198602,12,Polyp fecundity,6,units,,,0.523,mean,0.373,standard_deviation,6,,
+156193,1,92,1441,Stylophora pistillata,43,"Eilat, Israel",29.54973056,34.95620556,406,,198603,230,Fish association controlled,10,cat,,,Associated fishes present,raw_value,,,,,
+138204,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180187,12,Polyp fecundity,6,units,,,0.1898,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138204,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180188,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138204,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180189,143,Water depth,9,m,,,2,median,1,range,3,,
+138204,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180190,151,Season,10,cat,,,Nov,raw_value,,,,,
+138204,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180191,155,Colony area,57,cm^2,,,30.76805194,raw_value,,,,,Data from Figure 3c
+138205,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180192,12,Polyp fecundity,6,units,,,0.1241,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138205,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180193,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138205,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180194,143,Water depth,9,m,,,2,median,1,range,3,,
+138205,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180195,151,Season,10,cat,,,Nov,raw_value,,,,,
+138205,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180196,155,Colony area,57,cm^2,,,34.38745222,raw_value,,,,,Data from Figure 3c
+138210,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180217,12,Polyp fecundity,6,units,,,0.5907,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138210,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180218,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138210,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180219,143,Water depth,9,m,,,2,median,1,range,3,,
+138210,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180220,151,Season,10,cat,,,Nov,raw_value,,,,,
+138210,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180221,155,Colony area,57,cm^2,,,52.85669448,raw_value,,,,,Data from Figure 3c
+138211,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180222,12,Polyp fecundity,6,units,,,0.1961,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138211,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180223,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138211,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180224,143,Water depth,9,m,,,2,median,1,range,3,,
+138211,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180225,151,Season,10,cat,,,Nov,raw_value,,,,,
+138211,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180226,155,Colony area,57,cm^2,,,67.71735711,raw_value,,,,,Data from Figure 3c
+138213,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180232,12,Polyp fecundity,6,units,,,0.3277,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138213,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180233,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138213,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180234,143,Water depth,9,m,,,2,median,1,range,3,,
+138213,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180235,151,Season,10,cat,,,Nov,raw_value,,,,,
+138213,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180236,155,Colony area,57,cm^2,,,73.16443109,raw_value,,,,,Data from Figure 3c
+138215,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180242,12,Polyp fecundity,6,units,,,0.7164,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138215,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180243,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138215,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180244,143,Water depth,9,m,,,2,median,1,range,3,,
+138215,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180245,151,Season,10,cat,,,Nov,raw_value,,,,,
+138215,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180246,155,Colony area,57,cm^2,,,83.2721926,raw_value,,,,,Data from Figure 3c
+138218,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180257,12,Polyp fecundity,6,units,,,0.5252,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138218,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180258,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138218,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180259,143,Water depth,9,m,,,2,median,1,range,3,,
+138218,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180260,151,Season,10,cat,,,Nov,raw_value,,,,,
+138218,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180261,155,Colony area,57,cm^2,,,106.7578945,raw_value,,,,,Data from Figure 3c
+138219,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180265,151,Season,10,cat,,,Nov,raw_value,,,,,
+138219,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180262,12,Polyp fecundity,6,units,,,1.5297,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138219,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180263,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138219,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180264,143,Water depth,9,m,,,2,median,1,range,3,,
+138219,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180266,155,Colony area,57,cm^2,,,111.6863248,raw_value,,,,,Data from Figure 3c
+138220,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180267,12,Polyp fecundity,6,units,,,0.7225,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138220,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180268,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138220,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180269,143,Water depth,9,m,,,2,median,1,range,3,,
+138220,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180270,151,Season,10,cat,,,Nov,raw_value,,,,,
+138220,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180271,155,Colony area,57,cm^2,,,113.4227049,raw_value,,,,,Data from Figure 3c
+138221,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180272,12,Polyp fecundity,6,units,,,0.5192,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138221,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180273,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138221,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180274,143,Water depth,9,m,,,2,median,1,range,3,,
+138221,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180275,151,Season,10,cat,,,Nov,raw_value,,,,,
+138221,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180276,155,Colony area,57,cm^2,,,120.3926572,raw_value,,,,,Data from Figure 3c
+138222,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180280,151,Season,10,cat,,,Nov,raw_value,,,,,
+138222,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180277,12,Polyp fecundity,6,units,,,0.8601,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138222,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180278,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138222,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180279,143,Water depth,9,m,,,2,median,1,range,3,,
+138222,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180281,155,Colony area,57,cm^2,,,124.6809205,raw_value,,,,,Data from Figure 3c
+138223,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180282,12,Polyp fecundity,6,units,,,0.1247,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138223,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180283,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138223,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180284,143,Water depth,9,m,,,2,median,1,range,3,,
+138223,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180285,151,Season,10,cat,,,Nov,raw_value,,,,,
+138223,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180286,155,Colony area,57,cm^2,,,137.9748721,raw_value,,,,,Data from Figure 3c
+138224,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180287,12,Polyp fecundity,6,units,,,0.5852,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138224,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180288,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138224,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180289,143,Water depth,9,m,,,2,median,1,range,3,,
+138224,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180290,151,Season,10,cat,,,Nov,raw_value,,,,,
+138224,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180291,155,Colony area,57,cm^2,,,178.6076268,raw_value,,,,,Data from Figure 3c
+138225,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180292,12,Polyp fecundity,6,units,,,1.0576,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138225,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180293,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138225,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180294,143,Water depth,9,m,,,2,median,1,range,3,,
+138225,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180295,151,Season,10,cat,,,Nov,raw_value,,,,,
+138225,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180296,155,Colony area,57,cm^2,,,180.3432949,raw_value,,,,,Data from Figure 3c
+138226,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180297,12,Polyp fecundity,6,units,,,1.4701,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138226,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180298,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138226,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180299,143,Water depth,9,m,,,2,median,1,range,3,,
+138226,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180300,151,Season,10,cat,,,Nov,raw_value,,,,,
+138226,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180301,155,Colony area,57,cm^2,,,180.5094737,raw_value,,,,,Data from Figure 3c
+138227,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180302,12,Polyp fecundity,6,units,,,0.9859,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138227,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180303,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138227,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180304,143,Water depth,9,m,,,2,median,1,range,3,,
+138227,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180305,151,Season,10,cat,,,Nov,raw_value,,,,,
+138227,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180306,155,Colony area,57,cm^2,,,212.2266897,raw_value,,,,,Data from Figure 3c
+138228,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180307,12,Polyp fecundity,6,units,,,1.1952,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138228,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180308,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138228,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180309,143,Water depth,9,m,,,2,median,1,range,3,,
+138228,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180310,151,Season,10,cat,,,Nov,raw_value,,,,,
+138228,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180311,155,Colony area,57,cm^2,,,227.4049951,raw_value,,,,,Data from Figure 3c
+138229,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180312,12,Polyp fecundity,6,units,,,1.3268,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138229,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180313,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138229,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180314,143,Water depth,9,m,,,2,median,1,range,3,,
+138229,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180315,151,Season,10,cat,,,Nov,raw_value,,,,,
+138229,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180316,155,Colony area,57,cm^2,,,254.2728554,raw_value,,,,,Data from Figure 3c
+138234,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180337,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138234,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180338,143,Water depth,9,m,,,2,median,1,range,3,,
+138234,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180339,151,Season,10,cat,,,Nov,raw_value,,,,,
+138234,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180340,155,Colony area,57,cm^2,,,2.954608888,raw_value,,,,,data from Figure 5f
+138234,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180341,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5f
+138236,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180347,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138236,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180348,143,Water depth,9,m,,,2,median,1,range,3,,
+138236,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180349,151,Season,10,cat,,,Nov,raw_value,,,,,
+138236,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180350,155,Colony area,57,cm^2,,,10.07859514,raw_value,,,,,data from Figure 5f
+138236,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180351,216,Colony fecundity,77,mm^3,,,25.25,raw_value,,,,,data from Figure 5f
+138237,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180352,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138237,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180353,143,Water depth,9,m,,,2,median,1,range,3,,
+138237,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180354,151,Season,10,cat,,,Nov,raw_value,,,,,
+138237,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180355,155,Colony area,57,cm^2,,,31.34007273,raw_value,,,,,data from Figure 5f
+138237,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180356,216,Colony fecundity,77,mm^3,,,107.24,raw_value,,,,,data from Figure 5f
+138238,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180357,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138238,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180358,143,Water depth,9,m,,,2,median,1,range,3,,
+138238,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180359,151,Season,10,cat,,,Nov,raw_value,,,,,
+138238,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180360,155,Colony area,57,cm^2,,,31.43402542,raw_value,,,,,data from Figure 5f
+138238,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180361,216,Colony fecundity,77,mm^3,,,2180.22,raw_value,,,,,data from Figure 5f
+138240,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180367,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138240,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180368,143,Water depth,9,m,,,2,median,1,range,3,,
+138240,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180369,151,Season,10,cat,,,Nov,raw_value,,,,,
+138240,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180370,155,Colony area,57,cm^2,,,35.58770648,raw_value,,,,,data from Figure 5f
+138240,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180371,216,Colony fecundity,77,mm^3,,,124.52,raw_value,,,,,data from Figure 5f
+138241,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180372,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138241,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180373,143,Water depth,9,m,,,2,median,1,range,3,,
+138241,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180374,151,Season,10,cat,,,Nov,raw_value,,,,,
+138241,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180375,155,Colony area,57,cm^2,,,38.57447287,raw_value,,,,,data from Figure 5f
+138241,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180376,216,Colony fecundity,77,mm^3,,,46.45,raw_value,,,,,data from Figure 5f
+138244,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180387,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138244,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180388,143,Water depth,9,m,,,2,median,1,range,3,,
+138244,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180389,151,Season,10,cat,,,Nov,raw_value,,,,,
+138244,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180390,155,Colony area,57,cm^2,,,44.68893449,raw_value,,,,,data from Figure 5f
+138244,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180391,216,Colony fecundity,77,mm^3,,,418.08,raw_value,,,,,data from Figure 5f
+138245,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180392,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138245,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180393,143,Water depth,9,m,,,2,median,1,range,3,,
+138245,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180394,151,Season,10,cat,,,Nov,raw_value,,,,,
+138245,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180395,155,Colony area,57,cm^2,,,47.66504419,raw_value,,,,,data from Figure 5f
+138245,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180396,216,Colony fecundity,77,mm^3,,,1061.67,raw_value,,,,,data from Figure 5f
+138247,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180402,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138247,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180403,143,Water depth,9,m,,,2,median,1,range,3,,
+138247,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180404,151,Season,10,cat,,,Nov,raw_value,,,,,
+138247,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180405,155,Colony area,57,cm^2,,,53.64138714,raw_value,,,,,data from Figure 5f
+138247,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180406,216,Colony fecundity,77,mm^3,,,1427.89,raw_value,,,,,data from Figure 5f
+138248,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180407,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138248,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180408,143,Water depth,9,m,,,2,median,1,range,3,,
+138248,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180409,151,Season,10,cat,,,Nov,raw_value,,,,,
+138248,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180410,155,Colony area,57,cm^2,,,69.1353236,raw_value,,,,,data from Figure 5f
+138248,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180411,216,Colony fecundity,77,mm^3,,,1458.49,raw_value,,,,,data from Figure 5f
+138249,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180412,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138249,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180413,143,Water depth,9,m,,,2,median,1,range,3,,
+138249,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180414,151,Season,10,cat,,,Nov,raw_value,,,,,
+138249,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180415,155,Colony area,57,cm^2,,,71.13772955,raw_value,,,,,data from Figure 5f
+138249,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180416,216,Colony fecundity,77,mm^3,,,5081.76,raw_value,,,,,data from Figure 5f
+138250,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180417,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138250,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180418,143,Water depth,9,m,,,2,median,1,range,3,,
+138250,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180419,151,Season,10,cat,,,Nov,raw_value,,,,,
+138250,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180420,155,Colony area,57,cm^2,,,74.40463662,raw_value,,,,,data from Figure 5f
+138250,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180421,216,Colony fecundity,77,mm^3,,,3699.84,raw_value,,,,,data from Figure 5f
+156196,1,92,1441,Stylophora pistillata,43,"Eilat, Israel",29.54973056,34.95620556,406,,198608,12,Polyp fecundity,6,units,,,0.691,mean,0.538,standard_deviation,8,,
+156196,1,92,1441,Stylophora pistillata,43,"Eilat, Israel",29.54973056,34.95620556,406,,198609,230,Fish association controlled,10,cat,,,Associated fishes removed,raw_value,,,,,
+156194,1,92,1441,Stylophora pistillata,43,"Eilat, Israel",29.54973056,34.95620556,406,,198604,12,Polyp fecundity,6,units,,,0.608,mean,0.386,standard_deviation,8,,
+156194,1,92,1441,Stylophora pistillata,43,"Eilat, Israel",29.54973056,34.95620556,406,,198605,230,Fish association controlled,10,cat,,,Associated fishes present,raw_value,,,,,
+138272,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180536,12,Polyp fecundity,6,units,,,2.521,raw_value,0.254,standard_error,,,
+138272,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180537,46,Size at maturity,57,cm^2,,,10.07859514,raw_value,,,,,"We follow a different definition than the one in the resource paper. The colony diameter at which a coral is observed to start producing gametes and reproducing, instead of the size in which all colonies are reproducing."
+138272,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180538,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138272,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180539,143,Water depth,9,m,,,2,median,1,range,3,,
+138272,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180540,148,Polyps per area,47,units cm^-2,,,360,mean,42,standard_error,,,Counts
+138272,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180541,151,Season,10,cat,,,Nov,raw_value,,,,,
+138272,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180542,212,Ratio of female to male gonads,66,x:y,,,0.32,mean,0.11,standard_error,,,
+138266,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180497,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138266,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180498,143,Water depth,9,m,,,2,median,1,range,3,,
+138266,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180499,151,Season,10,cat,,,Nov,raw_value,,,,,
+138266,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180500,155,Colony area,57,cm^2,,,387.8823338,raw_value,,,,,data from Figure 5f
+138266,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180501,216,Colony fecundity,77,mm^3,,,14630.88,raw_value,,,,,data from Figure 5f
+138261,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180472,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138261,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180473,143,Water depth,9,m,,,2,median,1,range,3,,
+138261,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180474,151,Season,10,cat,,,Nov,raw_value,,,,,
+138261,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180475,155,Colony area,57,cm^2,,,214.9314655,raw_value,,,,,data from Figure 5f
+138261,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180476,216,Colony fecundity,77,mm^3,,,4111.44,raw_value,,,,,data from Figure 5f
+138258,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180457,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138258,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180458,143,Water depth,9,m,,,2,median,1,range,3,,
+138258,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180459,151,Season,10,cat,,,Nov,raw_value,,,,,
+138258,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180460,155,Colony area,57,cm^2,,,171.1985177,raw_value,,,,,data from Figure 5f
+138258,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180461,216,Colony fecundity,77,mm^3,,,1840.62,raw_value,,,,,data from Figure 5f
+138256,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180447,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138256,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180448,143,Water depth,9,m,,,2,median,1,range,3,,
+138256,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180449,151,Season,10,cat,,,Nov,raw_value,,,,,
+138256,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180450,155,Colony area,57,cm^2,,,127.0574105,raw_value,,,,,data from Figure 5f
+138256,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180451,216,Colony fecundity,77,mm^3,,,4200.46,raw_value,,,,,data from Figure 5f
+138252,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180427,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138252,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180428,143,Water depth,9,m,,,2,median,1,range,3,,
+138252,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180429,151,Season,10,cat,,,Nov,raw_value,,,,,
+138252,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180430,155,Colony area,57,cm^2,,,86.02011127,raw_value,,,,,data from Figure 5f
+138252,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180431,216,Colony fecundity,77,mm^3,,,3472.76,raw_value,,,,,data from Figure 5f
+138246,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180397,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138246,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180398,143,Water depth,9,m,,,2,median,1,range,3,,
+138246,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180399,151,Season,10,cat,,,Nov,raw_value,,,,,
+138246,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180400,155,Colony area,57,cm^2,,,53.05178489,raw_value,,,,,data from Figure 5f
+138246,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180401,216,Colony fecundity,77,mm^3,,,175.08,raw_value,,,,,data from Figure 5f
+138251,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180422,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138251,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180423,143,Water depth,9,m,,,2,median,1,range,3,,
+138251,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180424,151,Season,10,cat,,,Nov,raw_value,,,,,
+138251,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180425,155,Colony area,57,cm^2,,,84.48896695,raw_value,,,,,data from Figure 5f
+138251,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180426,216,Colony fecundity,77,mm^3,,,5301.74,raw_value,,,,,data from Figure 5f
+138243,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180382,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138243,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180383,143,Water depth,9,m,,,2,median,1,range,3,,
+138243,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180384,151,Season,10,cat,,,Nov,raw_value,,,,,
+138243,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180385,155,Colony area,57,cm^2,,,44.09608165,raw_value,,,,,data from Figure 5f
+138243,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180386,216,Colony fecundity,77,mm^3,,,5.64,raw_value,,,,,data from Figure 5f
+138242,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180377,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138242,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180378,143,Water depth,9,m,,,2,median,1,range,3,,
+138242,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180379,151,Season,10,cat,,,Nov,raw_value,,,,,
+138242,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180380,155,Colony area,57,cm^2,,,43.50107606,raw_value,,,,,data from Figure 5f
+138242,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180381,216,Colony fecundity,77,mm^3,,,516.73,raw_value,,,,,data from Figure 5f
+138239,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180362,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138239,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180363,143,Water depth,9,m,,,2,median,1,range,3,,
+138239,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180364,151,Season,10,cat,,,Nov,raw_value,,,,,
+138239,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180365,155,Colony area,57,cm^2,,,35.33458541,raw_value,,,,,data from Figure 5f
+138239,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180366,216,Colony fecundity,77,mm^3,,,955.09,raw_value,,,,,data from Figure 5f
+138235,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180342,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138235,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180343,143,Water depth,9,m,,,2,median,1,range,3,,
+138235,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180344,151,Season,10,cat,,,Nov,raw_value,,,,,
+138235,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180345,155,Colony area,57,cm^2,,,6.864359179,raw_value,,,,,data from Figure 5f
+138235,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180346,216,Colony fecundity,77,mm^3,,,0,raw_value,,,,,data from Figure 5f
+138233,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180332,12,Polyp fecundity,6,units,,,0.9981,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138233,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180333,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138233,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180334,143,Water depth,9,m,,,2,median,1,range,3,,
+138233,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180335,151,Season,10,cat,,,Nov,raw_value,,,,,
+138233,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180336,155,Colony area,57,cm^2,,,383.5305825,raw_value,,,,,Data from Figure 3c
+138232,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180327,12,Polyp fecundity,6,units,,,0.5316,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138232,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180328,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138232,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180329,143,Water depth,9,m,,,2,median,1,range,3,,
+138232,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180330,151,Season,10,cat,,,Nov,raw_value,,,,,
+138232,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180331,155,Colony area,57,cm^2,,,373.4220854,raw_value,,,,,Data from Figure 3c
+138231,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180322,12,Polyp fecundity,6,units,,,2.2536,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138231,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180323,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138231,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180324,143,Water depth,9,m,,,2,median,1,range,3,,
+138231,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180325,151,Season,10,cat,,,Nov,raw_value,,,,,
+138231,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180326,155,Colony area,57,cm^2,,,282.4229597,raw_value,,,,,Data from Figure 3c
+138230,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180317,12,Polyp fecundity,6,units,,,0.4479,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138230,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180318,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138230,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180319,143,Water depth,9,m,,,2,median,1,range,3,,
+138230,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180320,151,Season,10,cat,,,Nov,raw_value,,,,,
+138230,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180321,155,Colony area,57,cm^2,,,271.8316367,raw_value,,,,,Data from Figure 3c
+138217,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180252,12,Polyp fecundity,6,units,,,0.7883,mean,,,,,Numbers of eggs refer to Planulae (text). Data from Figure 3c
+138217,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180253,142,Habitat type,10,cat,,,crest,raw_value,,,,,
+138217,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180254,143,Water depth,9,m,,,2,median,1,range,3,,
+138217,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180255,151,Season,10,cat,,,Nov,raw_value,,,,,
+138217,1,9,1441,Stylophora pistillata,178,Lizard Island,-14.6689,145.4594,192,,180256,155,Colony area,57,cm^2,,,105.9009851,raw_value,,,,,Data from Figure 3c
