@@ -5,3 +5,5 @@ Follow the R script in Order:
 1. script_surverydata.R
 2. funsapce.R
 3. litplots.R
+
+Warning: There is script that will write files to directories, change directories to accomodate your computer. 
